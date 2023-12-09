@@ -1,0 +1,5 @@
+2023/12/09-16:32:36.902 5d4 Reusing MANIFEST /home/sam/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/12/09-16:32:36.902 5d4 Recovering log #59
+2023/12/09-16:32:36.903 5d4 Reusing old log /home/sam/.config/discord/Local Storage/leveldb/000059.log 
+2023/12/09-16:34:09.163 790 Level-0 table #63: started
+2023/12/09-16:34:09.264 790 Level-0 table #63: 2712300 bytes OK

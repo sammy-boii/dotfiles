@@ -1,0 +1,23 @@
+2023-12-06 22:54:59.257 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-12-06 22:54:59.257 [info] Auto Sync is enabled.
+2023-12-06 22:54:59.257 [info] Auto Sync: Suspended until auth token is available.
+2023-12-06 22:55:00.085 [info] Deleting non existing profile from backup /home/sam/.config/Code/User/sync/extensions
+2023-12-06 22:55:01.056 [info] Deleting non existing profile from backup /home/sam/.config/Code/User/sync/globalState
+2023-12-06 22:55:01.411 [info] Deleting non existing profile from backup /home/sam/.config/Code/User/sync/keybindings
+2023-12-06 22:55:01.620 [info] Deleting non existing profile from backup /home/sam/.config/Code/User/sync/settings
+2023-12-06 22:55:01.675 [info] Deleting non existing profile from backup /home/sam/.config/Code/User/sync/snippets
+2023-12-06 22:55:01.679 [info] Deleting non existing profile from backup /home/sam/.config/Code/User/sync/tasks
+2023-12-06 22:55:03.381 [info] Auto Sync: Triggered by Interval
+2023-12-06 22:55:03.381 [info] Sync started.
+2023-12-06 22:55:04.742 [info] Settings: Last sync resource does not exist locally.
+2023-12-06 22:55:04.947 [info] Settings: No changes found during synchronizing settings.
+2023-12-06 22:55:04.962 [info] Keybindings: Last sync resource does not exist locally.
+2023-12-06 22:55:05.099 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-12-06 22:55:05.111 [info] Snippets: Last sync resource does not exist locally.
+2023-12-06 22:55:05.226 [info] Snippets: No changes found during synchronizing snippets.
+2023-12-06 22:55:05.231 [info] Tasks: Last sync resource does not exist locally.
+2023-12-06 22:55:05.369 [info] Tasks: No changes found during synchronizing tasks.
+2023-12-06 22:55:05.378 [info] GlobalState: Last sync resource does not exist locally.
+2023-12-06 22:55:06.755 [info] GlobalState: Updated remote ui state. Updated: workbench.statusbar.hidden,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2023-12-06 22:55:06.764 [info] GlobalState: Updated last synchronized ui state
+2023-12-06 22:55:06.766 [info] Extensions: Last sync resource does not exist locally.

@@ -1,0 +1,2 @@
+2023-11-29 20:05:06.993 [error] electron #44: https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/4.32.0/1700479629849/Microsoft.VisualStudio.Code.Manifest - error GET net::ERR_TIMED_OUT
+2023-11-29 20:05:07.080 [error] electron #54: https://sdras.gallerycdn.vsassets.io/extensions/sdras/night-owl/2.0.1/1625369748311/Microsoft.VisualStudio.Code.Manifest - error GET net::ERR_TIMED_OUT

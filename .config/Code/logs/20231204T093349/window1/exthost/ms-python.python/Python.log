@@ -1,0 +1,6 @@
+2023-12-04 09:33:53.052 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-04 09:33:53.052 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-04 09:33:53.052 [info] Experiment 'pythonTestAdapter' is active
+2023-12-04 09:33:53.053 [info] Test server listening.
+2023-12-04 09:33:53.053 [info] Python interpreter path: /bin/python
+2023-12-04 09:33:56.306 [info] Starting Pylance language server.

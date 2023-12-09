@@ -1,0 +1,18 @@
+2023-12-06 22:55:27.764 [info] [Info  - 10:55:27 PM] (365052) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-06 22:55:27.766 [info] [Info  - 10:55:27 PM] (365052) Server root directory: /home/sam/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-06 22:55:27.802 [info] [Info  - 10:55:27 PM] (365052) Starting service instance "<default>"
+2023-12-06 22:55:27.875 [info] [Info  - 10:55:27 PM] (365052) Setting pythonPath for service "<default>": "/bin/python"
+2023-12-06 22:55:27.875 [info] [Info  - 10:55:27 PM] (365052) Setting environmentName for service "<default>": "3.11.6 (global)"
+2023-12-06 22:55:27.925 [info] [Info  - 10:55:27 PM] (365052) Assuming Python version 3.11
+2023-12-06 22:55:28.008 [info] [Info  - 10:55:28 PM] (365052) No source files found.
+2023-12-06 22:55:28.081 [info] [Info  - 10:55:28 PM] (365052) Setting pythonPath for service "<default>": "/bin/python"
+2023-12-06 22:55:28.081 [info] [Info  - 10:55:28 PM] (365052) Setting environmentName for service "<default>": "3.11.6 (global)"
+2023-12-06 22:55:28.116 [info] [Info  - 10:55:28 PM] (365052) Assuming Python version 3.11
+2023-12-06 22:55:28.169 [info] [Info  - 10:55:28 PM] (365052) No source files found.
+2023-12-06 22:56:04.975 [info] [Info  - 10:56:04 PM] (366419) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-06 22:56:04.975 [info] [Info  - 10:56:04 PM] (366419) Server root directory: /home/sam/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-06 22:56:04.982 [info] [Info  - 10:56:04 PM] (366419) Starting service instance "test"
+2023-12-06 22:56:05.044 [info] [Info  - 10:56:05 PM] (366419) Setting pythonPath for service "test": "/bin/python"
+2023-12-06 22:56:05.044 [info] [Info  - 10:56:05 PM] (366419) Setting environmentName for service "test": "3.11.6 (global)"
+2023-12-06 22:56:05.102 [info] [Info  - 10:56:05 PM] (366419) Assuming Python version 3.11
+2023-12-06 22:56:05.200 [info] [Info  - 10:56:05 PM] (366419) Found 1 source file

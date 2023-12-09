@@ -1,0 +1,11 @@
+2023-12-04 09:33:56.286 [info] [Info  - 9:33:56 AM] (35049) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-04 09:33:56.286 [info] [Info  - 9:33:56 AM] (35049) Server root directory: /home/sam/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-04 09:33:56.314 [info] [Info  - 9:33:56 AM] (35049) Starting service instance "<default>"
+2023-12-04 09:33:56.351 [info] [Info  - 9:33:56 AM] (35049) Setting pythonPath for service "<default>": "/bin/python"
+2023-12-04 09:33:56.355 [info] [Info  - 9:33:56 AM] (35049) Setting environmentName for service "<default>": "3.11.6 (global)"
+2023-12-04 09:33:56.379 [info] [Info  - 9:33:56 AM] (35049) Assuming Python version 3.11
+2023-12-04 09:33:56.473 [info] [Info  - 9:33:56 AM] (35049) No source files found.
+2023-12-04 09:33:56.552 [info] [Info  - 9:33:56 AM] (35049) Setting pythonPath for service "<default>": "/bin/python"
+2023-12-04 09:33:56.553 [info] [Info  - 9:33:56 AM] (35049) Setting environmentName for service "<default>": "3.11.6 (global)"
+2023-12-04 09:33:56.590 [info] [Info  - 9:33:56 AM] (35049) Assuming Python version 3.11
+2023-12-04 09:33:56.636 [info] [Info  - 9:33:56 AM] (35049) No source files found.

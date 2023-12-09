@@ -1,0 +1,17 @@
+{
+  "workbench.colorTheme": "JellyFish",
+  "workbench.startupEditor": "none",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "reactSnippets.settings.importReactOnTop": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "path-intellisense.mappings": {},
+  "explorer.confirmDragAndDrop": false,
+  "editor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.iconTheme": "material-icon-theme",
+  "auto-close-tag.disableOnLanguage": ["typescript"]
+}

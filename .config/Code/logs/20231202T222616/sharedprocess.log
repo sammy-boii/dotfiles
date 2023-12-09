@@ -1,0 +1,28 @@
+2023-12-02 22:27:16.214 [info] Getting Manifest... ms-python.python
+2023-12-02 22:27:16.231 [info] Installing extension: ms-python.python
+2023-12-02 22:27:17.222 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-02 22:27:17.445 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-12-02 22:27:20.036 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-12-02 22:27:22.207 [info] Extracted extension to file:///home/sam/.vscode/extensions/ms-python.python-2023.20.0: ms-python.python
+2023-12-02 22:27:22.216 [info] Renamed to /home/sam/.vscode/extensions/ms-python.python-2023.20.0
+2023-12-02 22:27:22.221 [info] Extracting extension completed. ms-python.python
+2023-12-02 22:27:22.327 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-02 22:27:24.620 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-12-02 22:27:27.282 [info] Extracted extension to file:///home/sam/.vscode/extensions/ms-python.vscode-pylance-2023.11.10: ms-python.vscode-pylance
+2023-12-02 22:27:27.302 [info] Renamed to /home/sam/.vscode/extensions/ms-python.vscode-pylance-2023.11.10
+2023-12-02 22:27:27.307 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-02 22:27:27.335 [info] Extension installed successfully: ms-python.python
+2023-12-02 22:27:27.335 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-02 22:27:27.430 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

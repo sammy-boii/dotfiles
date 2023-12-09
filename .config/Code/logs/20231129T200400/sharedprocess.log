@@ -1,0 +1,245 @@
+2023-11-29 20:04:02.522 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sam/.vscode/extensions
+2023-11-29 20:04:02.736 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/sam/.vscode/extensions Unable to create file 'vscode-userdata:/home/sam/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-11-29 20:04:02.737 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sam/.vscode/extensions
+2023-11-29 20:04:02.782 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:04:36.902 [info] Getting Manifest... christian-kohler.path-intellisense
+2023-11-29 20:04:36.902 [info] Getting Manifest... christian-kohler.npm-intellisense
+2023-11-29 20:04:36.902 [info] Getting Manifest... dsznajder.es7-react-js-snippets
+2023-11-29 20:04:36.902 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-11-29 20:04:36.902 [info] Getting Manifest... esbenp.prettier-vscode
+2023-11-29 20:04:36.902 [info] Getting Manifest... wesbos.theme-cobalt2
+2023-11-29 20:04:36.902 [info] Getting Manifest... glenn2223.live-sass
+2023-11-29 20:04:36.903 [info] Getting Manifest... pkief.material-icon-theme
+2023-11-29 20:04:36.903 [info] Getting Manifest... steoates.autoimport
+2023-11-29 20:04:36.903 [info] Getting Manifest... ecmel.vscode-html-css
+2023-11-29 20:04:36.903 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2023-11-29 20:04:36.903 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2023-11-29 20:04:36.903 [info] Getting Manifest... pawelborkar.jellyfish
+2023-11-29 20:04:36.904 [info] Getting Manifest... yzhang.markdown-all-in-one
+2023-11-29 20:04:36.904 [info] Getting Manifest... bracketpaircolordlw.bracket-pair-color-dlw
+2023-11-29 20:04:36.904 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-11-29 20:04:36.904 [info] Getting Manifest... ritwickdey.liveserver
+2023-11-29 20:04:36.904 [info] Getting Manifest... sdras.night-owl
+2023-11-29 20:05:07.711 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples
+2023-11-29 20:05:07.711 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.intellicode-api-usage-examples
+2023-11-29 20:05:07.711 [info] Installing extension: yzhang.markdown-all-in-one
+2023-11-29 20:05:07.712 [info] Installing the extension without checking dependencies and pack yzhang.markdown-all-in-one
+2023-11-29 20:05:07.712 [info] Installing extension: dbaeumer.vscode-eslint
+2023-11-29 20:05:07.712 [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+2023-11-29 20:05:07.712 [info] Installing extension: glenn2223.live-sass
+2023-11-29 20:05:07.712 [info] Installing the extension without checking dependencies and pack glenn2223.live-sass
+2023-11-29 20:05:07.713 [info] Installing extension: wesbos.theme-cobalt2
+2023-11-29 20:05:07.713 [info] Installing the extension without checking dependencies and pack wesbos.theme-cobalt2
+2023-11-29 20:05:07.713 [info] Installing extension: formulahendry.auto-close-tag
+2023-11-29 20:05:07.713 [info] Installing the extension without checking dependencies and pack formulahendry.auto-close-tag
+2023-11-29 20:05:07.713 [info] Installing extension: ritwickdey.liveserver
+2023-11-29 20:05:07.714 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2023-11-29 20:05:07.714 [info] Installing extension: visualstudioexptteam.vscodeintellicode
+2023-11-29 20:05:07.714 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+2023-11-29 20:05:07.714 [info] Installing extension: esbenp.prettier-vscode
+2023-11-29 20:05:07.714 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2023-11-29 20:05:07.714 [info] Installing extension: christian-kohler.path-intellisense
+2023-11-29 20:05:07.714 [info] Installing the extension without checking dependencies and pack christian-kohler.path-intellisense
+2023-11-29 20:05:07.715 [info] Installing extension: christian-kohler.npm-intellisense
+2023-11-29 20:05:07.715 [info] Installing the extension without checking dependencies and pack christian-kohler.npm-intellisense
+2023-11-29 20:05:07.715 [info] Installing extension: bracketpaircolordlw.bracket-pair-color-dlw
+2023-11-29 20:05:07.716 [info] Installing the extension without checking dependencies and pack bracketpaircolordlw.bracket-pair-color-dlw
+2023-11-29 20:05:07.716 [info] Installing extension: steoates.autoimport
+2023-11-29 20:05:07.717 [info] Installing the extension without checking dependencies and pack steoates.autoimport
+2023-11-29 20:05:07.717 [info] Installing extension: ecmel.vscode-html-css
+2023-11-29 20:05:07.717 [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+2023-11-29 20:05:07.717 [info] Installing extension: pawelborkar.jellyfish
+2023-11-29 20:05:07.717 [info] Installing the extension without checking dependencies and pack pawelborkar.jellyfish
+2023-11-29 20:05:07.717 [info] Installing extension: dsznajder.es7-react-js-snippets
+2023-11-29 20:05:07.717 [info] Installing the extension without checking dependencies and pack dsznajder.es7-react-js-snippets
+2023-11-29 20:05:07.718 [info] Installing extension: pkief.material-icon-theme
+2023-11-29 20:05:07.718 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2023-11-29 20:05:07.718 [info] Installing extension: sdras.night-owl
+2023-11-29 20:05:07.718 [info] Installing the extension without checking dependencies and pack sdras.night-owl
+2023-11-29 20:05:10.081 [warning] Extension signature verification failed with error 'UnknownError': formulahendry.auto-close-tag
+2023-11-29 20:05:10.138 [info] Extracted extension to file:///home/sam/.vscode/extensions/formulahendry.auto-close-tag-0.5.14: formulahendry.auto-close-tag
+2023-11-29 20:05:10.154 [info] Renamed to /home/sam/.vscode/extensions/formulahendry.auto-close-tag-0.5.14
+2023-11-29 20:05:10.159 [info] Extracting extension completed. formulahendry.auto-close-tag
+2023-11-29 20:05:10.183 [info] Extension installed successfully: formulahendry.auto-close-tag
+2023-11-29 20:05:10.254 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:10.304 [warning] Extension signature verification failed with error 'UnknownError': bracketpaircolordlw.bracket-pair-color-dlw
+2023-11-29 20:05:10.314 [info] Extracted extension to file:///home/sam/.vscode/extensions/bracketpaircolordlw.bracket-pair-color-dlw-0.0.6: bracketpaircolordlw.bracket-pair-color-dlw
+2023-11-29 20:05:10.332 [info] Renamed to /home/sam/.vscode/extensions/bracketpaircolordlw.bracket-pair-color-dlw-0.0.6
+2023-11-29 20:05:10.337 [info] Extracting extension completed. bracketpaircolordlw.bracket-pair-color-dlw
+2023-11-29 20:05:10.379 [info] Extension installed successfully: bracketpaircolordlw.bracket-pair-color-dlw
+2023-11-29 20:05:10.418 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:10.571 [warning] Extension signature verification failed with error 'UnknownError': dbaeumer.vscode-eslint
+2023-11-29 20:05:10.593 [warning] Extension signature verification failed with error 'UnknownError': glenn2223.live-sass
+2023-11-29 20:05:10.606 [info] Extracted extension to file:///home/sam/.vscode/extensions/dbaeumer.vscode-eslint-2.4.2: dbaeumer.vscode-eslint
+2023-11-29 20:05:10.620 [info] Renamed to /home/sam/.vscode/extensions/dbaeumer.vscode-eslint-2.4.2
+2023-11-29 20:05:10.623 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-11-29 20:05:10.642 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-11-29 20:05:10.648 [info] Extracted extension to file:///home/sam/.vscode/extensions/glenn2223.live-sass-6.1.2: glenn2223.live-sass
+2023-11-29 20:05:10.662 [info] Renamed to /home/sam/.vscode/extensions/glenn2223.live-sass-6.1.2
+2023-11-29 20:05:10.671 [info] Extracting extension completed. glenn2223.live-sass
+2023-11-29 20:05:10.694 [info] Extension installed successfully: glenn2223.live-sass
+2023-11-29 20:05:10.704 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:10.819 [warning] Extension signature verification failed with error 'UnknownError': visualstudioexptteam.intellicode-api-usage-examples
+2023-11-29 20:05:10.821 [warning] Extension signature verification failed with error 'UnknownError': sdras.night-owl
+2023-11-29 20:05:10.827 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-icon-theme
+2023-11-29 20:05:11.060 [warning] Extension signature verification failed with error 'UnknownError': yzhang.markdown-all-in-one
+2023-11-29 20:05:11.111 [info] Extracted extension to file:///home/sam/.vscode/extensions/sdras.night-owl-2.0.1: sdras.night-owl
+2023-11-29 20:05:11.127 [info] Renamed to /home/sam/.vscode/extensions/sdras.night-owl-2.0.1
+2023-11-29 20:05:11.130 [info] Extracting extension completed. sdras.night-owl
+2023-11-29 20:05:11.154 [info] Extension installed successfully: sdras.night-owl
+2023-11-29 20:05:11.191 [info] Extracted extension to file:///home/sam/.vscode/extensions/yzhang.markdown-all-in-one-3.5.1: yzhang.markdown-all-in-one
+2023-11-29 20:05:11.212 [warning] Extension signature verification failed with error 'UnknownError': wesbos.theme-cobalt2
+2023-11-29 20:05:11.219 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:11.223 [info] Renamed to /home/sam/.vscode/extensions/yzhang.markdown-all-in-one-3.5.1
+2023-11-29 20:05:11.236 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2023-11-29 20:05:11.264 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2023-11-29 20:05:11.277 [info] Extracted extension to file:///home/sam/.vscode/extensions/wesbos.theme-cobalt2-2.4.3: wesbos.theme-cobalt2
+2023-11-29 20:05:11.293 [info] Renamed to /home/sam/.vscode/extensions/wesbos.theme-cobalt2-2.4.3
+2023-11-29 20:05:11.295 [info] Extracting extension completed. wesbos.theme-cobalt2
+2023-11-29 20:05:11.319 [info] Extension installed successfully: wesbos.theme-cobalt2
+2023-11-29 20:05:11.382 [info] Extracted extension to file:///home/sam/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8: visualstudioexptteam.intellicode-api-usage-examples
+2023-11-29 20:05:11.399 [info] Renamed to /home/sam/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8
+2023-11-29 20:05:11.404 [info] Extracting extension completed. visualstudioexptteam.intellicode-api-usage-examples
+2023-11-29 20:05:11.425 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+2023-11-29 20:05:11.487 [warning] Extension signature verification failed with error 'UnknownError': ecmel.vscode-html-css
+2023-11-29 20:05:11.508 [info] Extracted extension to file:///home/sam/.vscode/extensions/ecmel.vscode-html-css-1.13.1: ecmel.vscode-html-css
+2023-11-29 20:05:11.524 [info] Renamed to /home/sam/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+2023-11-29 20:05:11.526 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-11-29 20:05:11.556 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-11-29 20:05:11.924 [info] Extracted extension to file:///home/sam/.vscode/extensions/pkief.material-icon-theme-4.32.0: pkief.material-icon-theme
+2023-11-29 20:05:11.943 [info] Renamed to /home/sam/.vscode/extensions/pkief.material-icon-theme-4.32.0
+2023-11-29 20:05:11.948 [info] Extracting extension completed. pkief.material-icon-theme
+2023-11-29 20:05:11.971 [info] Extension installed successfully: pkief.material-icon-theme
+2023-11-29 20:05:12.033 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:12.415 [warning] Extension signature verification failed with error 'UnknownError': dsznajder.es7-react-js-snippets
+2023-11-29 20:05:12.429 [warning] Extension signature verification failed with error 'UnknownError': pawelborkar.jellyfish
+2023-11-29 20:05:12.514 [info] Extracted extension to file:///home/sam/.vscode/extensions/pawelborkar.jellyfish-0.0.4: pawelborkar.jellyfish
+2023-11-29 20:05:12.518 [info] Renamed to /home/sam/.vscode/extensions/pawelborkar.jellyfish-0.0.4
+2023-11-29 20:05:12.521 [info] Extracting extension completed. pawelborkar.jellyfish
+2023-11-29 20:05:12.533 [info] Extension installed successfully: pawelborkar.jellyfish
+2023-11-29 20:05:12.608 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:12.692 [info] Extracted extension to file:///home/sam/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3: dsznajder.es7-react-js-snippets
+2023-11-29 20:05:12.696 [info] Renamed to /home/sam/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+2023-11-29 20:05:12.708 [info] Extracting extension completed. dsznajder.es7-react-js-snippets
+2023-11-29 20:05:12.720 [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+2023-11-29 20:05:12.791 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:13.087 [warning] Extension signature verification failed with error 'UnknownError': christian-kohler.path-intellisense
+2023-11-29 20:05:13.142 [warning] Extension signature verification failed with error 'UnknownError': esbenp.prettier-vscode
+2023-11-29 20:05:13.154 [info] Extracted extension to file:///home/sam/.vscode/extensions/christian-kohler.path-intellisense-2.8.5: christian-kohler.path-intellisense
+2023-11-29 20:05:13.171 [info] Renamed to /home/sam/.vscode/extensions/christian-kohler.path-intellisense-2.8.5
+2023-11-29 20:05:13.176 [info] Extracting extension completed. christian-kohler.path-intellisense
+2023-11-29 20:05:13.213 [info] Extension installed successfully: christian-kohler.path-intellisense
+2023-11-29 20:05:13.215 [warning] Extension signature verification failed with error 'UnknownError': christian-kohler.npm-intellisense
+2023-11-29 20:05:13.260 [info] Extracted extension to file:///home/sam/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5: christian-kohler.npm-intellisense
+2023-11-29 20:05:13.264 [info] Renamed to /home/sam/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5
+2023-11-29 20:05:13.266 [info] Extracting extension completed. christian-kohler.npm-intellisense
+2023-11-29 20:05:13.280 [info] Extension installed successfully: christian-kohler.npm-intellisense
+2023-11-29 20:05:13.288 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:13.341 [info] Extracted extension to file:///home/sam/.vscode/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-11-29 20:05:13.344 [info] Renamed to /home/sam/.vscode/extensions/esbenp.prettier-vscode-10.1.0
+2023-11-29 20:05:13.348 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-11-29 20:05:13.359 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-11-29 20:05:13.853 [warning] Extension signature verification failed with error 'UnknownError': steoates.autoimport
+2023-11-29 20:05:14.724 [info] Extracted extension to file:///home/sam/.vscode/extensions/steoates.autoimport-1.5.4: steoates.autoimport
+2023-11-29 20:05:14.729 [info] Renamed to /home/sam/.vscode/extensions/steoates.autoimport-1.5.4
+2023-11-29 20:05:14.730 [info] Extracting extension completed. steoates.autoimport
+2023-11-29 20:05:14.739 [info] Extension installed successfully: steoates.autoimport
+2023-11-29 20:05:14.812 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:18.102 [warning] Extension signature verification failed with error 'UnknownError': ritwickdey.liveserver
+2023-11-29 20:05:19.949 [warning] Extension signature verification failed with error 'UnknownError': visualstudioexptteam.vscodeintellicode
+2023-11-29 20:05:21.260 [info] Extracted extension to file:///home/sam/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-11-29 20:05:21.271 [info] Renamed to /home/sam/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-11-29 20:05:21.273 [info] Extracting extension completed. ritwickdey.liveserver
+2023-11-29 20:05:21.280 [info] Extension installed successfully: ritwickdey.liveserver
+2023-11-29 20:05:21.359 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:05:21.600 [info] Extracted extension to file:///home/sam/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30: visualstudioexptteam.vscodeintellicode
+2023-11-29 20:05:21.605 [info] Renamed to /home/sam/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30
+2023-11-29 20:05:21.608 [info] Extracting extension completed. visualstudioexptteam.vscodeintellicode
+2023-11-29 20:05:21.624 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+2023-11-29 20:05:21.712 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-11-29 20:06:26.194 [info] Getting Manifest... akamud.vscode-theme-onedark
+2023-11-29 20:06:26.212 [info] Installing extension: akamud.vscode-theme-onedark
+2023-11-29 20:06:27.159 [warning] Extension signature verification failed with error 'UnknownError': akamud.vscode-theme-onedark
+2023-11-29 20:06:27.173 [info] Extracted extension to file:///home/sam/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0: akamud.vscode-theme-onedark
+2023-11-29 20:06:27.206 [info] Renamed to /home/sam/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0
+2023-11-29 20:06:27.208 [info] Extracting extension completed. akamud.vscode-theme-onedark
+2023-11-29 20:06:27.255 [info] Extension installed successfully: akamud.vscode-theme-onedark
+2023-11-29 20:06:27.295 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sam/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

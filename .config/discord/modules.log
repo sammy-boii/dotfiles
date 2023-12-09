@@ -1,0 +1,1533 @@
+2023-11-29T15:07:32.880Z [Modules] Modules initializing
+2023-11-29T15:07:32.880Z [Modules] Distribution: remote
+2023-11-29T15:07:32.880Z [Modules] Host updates: enabled
+2023-11-29T15:07:32.880Z [Modules] Module updates: enabled
+2023-11-29T15:07:32.881Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-11-29T15:07:32.881Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-11-29T15:07:32.881Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-11-29T15:07:33.049Z [Modules] Bootstrapping...
+2023-11-29T15:07:33.050Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-11-29T15:07:33.055Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-11-29T15:07:33.057Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-11-29T15:07:33.060Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-11-29T15:07:33.061Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-11-29T15:07:33.063Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-11-29T15:07:33.064Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-11-29T15:07:33.065Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-11-29T15:07:33.065Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-11-29T15:07:33.066Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-11-29T15:07:33.066Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-11-29T15:07:33.066Z [Modules] Checking for host updates.
+2023-11-29T15:07:33.527Z [Modules] Host is up to date.
+2023-11-29T15:07:33.528Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-29T15:07:33.568Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-11-29T15:07:33.569Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-11-29T15:07:33.569Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-11-29T15:07:33.569Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-11-29T15:07:33.569Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-11-29T15:07:33.570Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-11-29T15:07:33.570Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip
+2023-11-29T15:07:34.097Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 1%
+2023-11-29T15:07:34.105Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 4%
+2023-11-29T15:07:34.114Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 7%
+2023-11-29T15:07:34.120Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 10%
+2023-11-29T15:07:34.122Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 11%
+2023-11-29T15:07:34.126Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 12%
+2023-11-29T15:07:34.132Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 14%
+2023-11-29T15:07:34.135Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 16%
+2023-11-29T15:07:34.140Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 19%
+2023-11-29T15:07:34.145Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 21%
+2023-11-29T15:07:34.147Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 22%
+2023-11-29T15:07:34.149Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 23%
+2023-11-29T15:07:34.154Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 26%
+2023-11-29T15:07:34.159Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 28%
+2023-11-29T15:07:34.162Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 30%
+2023-11-29T15:07:34.163Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 31%
+2023-11-29T15:07:34.167Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 33%
+2023-11-29T15:07:34.169Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 34%
+2023-11-29T15:07:34.172Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 35%
+2023-11-29T15:07:34.176Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 37%
+2023-11-29T15:07:34.178Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 38%
+2023-11-29T15:07:34.180Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 40%
+2023-11-29T15:07:34.183Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 41%
+2023-11-29T15:07:34.184Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 42%
+2023-11-29T15:07:34.187Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 43%
+2023-11-29T15:07:34.188Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 44%
+2023-11-29T15:07:34.190Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 45%
+2023-11-29T15:07:34.193Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 46%
+2023-11-29T15:07:34.196Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 48%
+2023-11-29T15:07:34.198Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 49%
+2023-11-29T15:07:34.203Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 52%
+2023-11-29T15:07:34.206Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 53%
+2023-11-29T15:07:34.207Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 54%
+2023-11-29T15:07:34.211Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 56%
+2023-11-29T15:07:34.214Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 57%
+2023-11-29T15:07:34.219Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 60%
+2023-11-29T15:07:34.222Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 62%
+2023-11-29T15:07:34.224Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 63%
+2023-11-29T15:07:34.227Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 64%
+2023-11-29T15:07:34.231Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 65%
+2023-11-29T15:07:34.232Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 66%
+2023-11-29T15:07:34.233Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 67%
+2023-11-29T15:07:34.235Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 68%
+2023-11-29T15:07:34.237Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 69%
+2023-11-29T15:07:34.240Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 71%
+2023-11-29T15:07:34.245Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 73%
+2023-11-29T15:07:34.248Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 75%
+2023-11-29T15:07:34.250Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 76%
+2023-11-29T15:07:34.254Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 78%
+2023-11-29T15:07:34.257Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 80%
+2023-11-29T15:07:34.259Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 81%
+2023-11-29T15:07:34.261Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 82%
+2023-11-29T15:07:34.263Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 83%
+2023-11-29T15:07:34.265Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 84%
+2023-11-29T15:07:34.267Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 85%
+2023-11-29T15:07:34.270Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 86%
+2023-11-29T15:07:34.271Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 87%
+2023-11-29T15:07:34.272Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 88%
+2023-11-29T15:07:34.275Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 89%
+2023-11-29T15:07:34.278Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 91%
+2023-11-29T15:07:34.281Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 92%
+2023-11-29T15:07:34.285Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 94%
+2023-11-29T15:07:34.286Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 95%
+2023-11-29T15:07:34.288Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 96%
+2023-11-29T15:07:34.292Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 98%
+2023-11-29T15:07:34.294Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 99%
+2023-11-29T15:07:34.295Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip: 100%
+2023-11-29T15:07:34.298Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-11-29T15:07:34.299Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip
+2023-11-29T15:07:34.788Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 3%
+2023-11-29T15:07:34.790Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 4%
+2023-11-29T15:07:34.792Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 5%
+2023-11-29T15:07:34.794Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 6%
+2023-11-29T15:07:34.798Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 9%
+2023-11-29T15:07:34.803Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 12%
+2023-11-29T15:07:34.805Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 13%
+2023-11-29T15:07:34.809Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 16%
+2023-11-29T15:07:34.811Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 17%
+2023-11-29T15:07:34.814Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 18%
+2023-11-29T15:07:34.818Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 21%
+2023-11-29T15:07:34.820Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 23%
+2023-11-29T15:07:34.825Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 26%
+2023-11-29T15:07:34.828Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 27%
+2023-11-29T15:07:34.832Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 29%
+2023-11-29T15:07:34.836Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 33%
+2023-11-29T15:07:34.840Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 35%
+2023-11-29T15:07:34.843Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 36%
+2023-11-29T15:07:34.845Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 37%
+2023-11-29T15:07:34.850Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 41%
+2023-11-29T15:07:34.855Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 43%
+2023-11-29T15:07:34.856Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 44%
+2023-11-29T15:07:34.858Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 45%
+2023-11-29T15:07:34.862Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 48%
+2023-11-29T15:07:34.868Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 52%
+2023-11-29T15:07:34.873Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 55%
+2023-11-29T15:07:34.876Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 56%
+2023-11-29T15:07:34.880Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 58%
+2023-11-29T15:07:34.883Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 61%
+2023-11-29T15:07:34.888Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 64%
+2023-11-29T15:07:34.890Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 65%
+2023-11-29T15:07:34.893Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 66%
+2023-11-29T15:07:34.894Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 67%
+2023-11-29T15:07:34.899Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 71%
+2023-11-29T15:07:34.905Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 73%
+2023-11-29T15:07:34.910Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 76%
+2023-11-29T15:07:34.911Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 77%
+2023-11-29T15:07:34.914Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 79%
+2023-11-29T15:07:34.918Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 82%
+2023-11-29T15:07:34.923Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 85%
+2023-11-29T15:07:34.925Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 86%
+2023-11-29T15:07:34.927Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 87%
+2023-11-29T15:07:34.930Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 88%
+2023-11-29T15:07:34.933Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 90%
+2023-11-29T15:07:34.935Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 92%
+2023-11-29T15:07:34.937Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 93%
+2023-11-29T15:07:34.941Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 96%
+2023-11-29T15:07:34.944Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 97%
+2023-11-29T15:07:34.946Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 98%
+2023-11-29T15:07:34.948Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip: 100%
+2023-11-29T15:07:34.951Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-11-29T15:07:34.952Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip
+2023-11-29T15:07:35.353Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 1%
+2023-11-29T15:07:35.362Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 2%
+2023-11-29T15:07:35.371Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 3%
+2023-11-29T15:07:35.381Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 4%
+2023-11-29T15:07:35.391Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 5%
+2023-11-29T15:07:35.405Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 6%
+2023-11-29T15:07:35.418Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 7%
+2023-11-29T15:07:35.420Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 8%
+2023-11-29T15:07:35.428Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 9%
+2023-11-29T15:07:35.437Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 10%
+2023-11-29T15:07:35.446Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 11%
+2023-11-29T15:07:35.455Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 12%
+2023-11-29T15:07:35.467Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 13%
+2023-11-29T15:07:35.472Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 14%
+2023-11-29T15:07:35.484Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 15%
+2023-11-29T15:07:35.490Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 16%
+2023-11-29T15:07:35.501Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 17%
+2023-11-29T15:07:35.511Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 18%
+2023-11-29T15:07:35.517Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 19%
+2023-11-29T15:07:35.525Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 20%
+2023-11-29T15:07:35.533Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 21%
+2023-11-29T15:07:35.543Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 22%
+2023-11-29T15:07:35.552Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 23%
+2023-11-29T15:07:35.561Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 24%
+2023-11-29T15:07:35.569Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 25%
+2023-11-29T15:07:35.577Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 26%
+2023-11-29T15:07:35.586Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 27%
+2023-11-29T15:07:35.596Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 28%
+2023-11-29T15:07:35.606Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 29%
+2023-11-29T15:07:35.613Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 30%
+2023-11-29T15:07:35.621Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 31%
+2023-11-29T15:07:35.631Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 32%
+2023-11-29T15:07:35.641Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 33%
+2023-11-29T15:07:35.651Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 34%
+2023-11-29T15:07:35.659Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 35%
+2023-11-29T15:07:35.671Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 36%
+2023-11-29T15:07:35.675Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 37%
+2023-11-29T15:07:35.684Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 38%
+2023-11-29T15:07:35.690Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 39%
+2023-11-29T15:07:35.703Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 40%
+2023-11-29T15:07:35.710Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 41%
+2023-11-29T15:07:35.718Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 42%
+2023-11-29T15:07:35.727Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 43%
+2023-11-29T15:07:35.737Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 44%
+2023-11-29T15:07:35.747Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 45%
+2023-11-29T15:07:35.754Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 46%
+2023-11-29T15:07:35.762Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 47%
+2023-11-29T15:07:35.771Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 48%
+2023-11-29T15:07:35.780Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 49%
+2023-11-29T15:07:35.788Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 50%
+2023-11-29T15:07:35.801Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 51%
+2023-11-29T15:07:35.806Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 52%
+2023-11-29T15:07:35.816Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 53%
+2023-11-29T15:07:35.825Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 54%
+2023-11-29T15:07:35.833Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 55%
+2023-11-29T15:07:35.845Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 56%
+2023-11-29T15:07:35.856Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 57%
+2023-11-29T15:07:35.867Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 58%
+2023-11-29T15:07:35.874Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 59%
+2023-11-29T15:07:35.885Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 60%
+2023-11-29T15:07:35.894Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 61%
+2023-11-29T15:07:35.904Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 62%
+2023-11-29T15:07:35.915Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 63%
+2023-11-29T15:07:35.923Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 64%
+2023-11-29T15:07:35.933Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 65%
+2023-11-29T15:07:35.941Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 66%
+2023-11-29T15:07:35.950Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 67%
+2023-11-29T15:07:35.963Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 68%
+2023-11-29T15:07:35.970Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 69%
+2023-11-29T15:07:35.981Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 70%
+2023-11-29T15:07:35.992Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 71%
+2023-11-29T15:07:36.001Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 72%
+2023-11-29T15:07:36.009Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 73%
+2023-11-29T15:07:36.021Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 74%
+2023-11-29T15:07:36.032Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 75%
+2023-11-29T15:07:36.039Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 76%
+2023-11-29T15:07:36.048Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 77%
+2023-11-29T15:07:36.058Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 78%
+2023-11-29T15:07:36.069Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 79%
+2023-11-29T15:07:36.083Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 80%
+2023-11-29T15:07:36.091Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 81%
+2023-11-29T15:07:36.098Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 82%
+2023-11-29T15:07:36.106Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 83%
+2023-11-29T15:07:36.120Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 84%
+2023-11-29T15:07:36.128Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 85%
+2023-11-29T15:07:36.137Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 86%
+2023-11-29T15:07:36.146Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 87%
+2023-11-29T15:07:36.159Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 88%
+2023-11-29T15:07:36.167Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 89%
+2023-11-29T15:07:36.178Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 90%
+2023-11-29T15:07:36.186Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 91%
+2023-11-29T15:07:36.194Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 92%
+2023-11-29T15:07:36.203Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 93%
+2023-11-29T15:07:36.214Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 94%
+2023-11-29T15:07:36.222Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 95%
+2023-11-29T15:07:36.233Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 96%
+2023-11-29T15:07:36.243Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 97%
+2023-11-29T15:07:36.253Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 98%
+2023-11-29T15:07:36.262Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 99%
+2023-11-29T15:07:36.269Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip: 100%
+2023-11-29T15:07:36.272Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-11-29T15:07:36.273Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip
+2023-11-29T15:07:36.736Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 2%
+2023-11-29T15:07:36.742Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 4%
+2023-11-29T15:07:36.746Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 5%
+2023-11-29T15:07:36.749Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 6%
+2023-11-29T15:07:36.753Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 7%
+2023-11-29T15:07:36.756Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 9%
+2023-11-29T15:07:36.760Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 10%
+2023-11-29T15:07:36.777Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 12%
+2023-11-29T15:07:36.789Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 15%
+2023-11-29T15:07:36.793Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 19%
+2023-11-29T15:07:36.795Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 22%
+2023-11-29T15:07:36.800Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 23%
+2023-11-29T15:07:36.802Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 25%
+2023-11-29T15:07:36.805Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 26%
+2023-11-29T15:07:36.809Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 28%
+2023-11-29T15:07:36.815Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 30%
+2023-11-29T15:07:36.818Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 31%
+2023-11-29T15:07:36.820Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 32%
+2023-11-29T15:07:36.823Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 33%
+2023-11-29T15:07:36.830Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 35%
+2023-11-29T15:07:36.836Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 37%
+2023-11-29T15:07:36.849Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 40%
+2023-11-29T15:07:36.852Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 42%
+2023-11-29T15:07:36.853Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 43%
+2023-11-29T15:07:36.854Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 44%
+2023-11-29T15:07:36.857Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 45%
+2023-11-29T15:07:36.862Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 47%
+2023-11-29T15:07:36.865Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 48%
+2023-11-29T15:07:36.869Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 49%
+2023-11-29T15:07:36.872Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 50%
+2023-11-29T15:07:36.873Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 51%
+2023-11-29T15:07:36.878Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 53%
+2023-11-29T15:07:36.883Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 54%
+2023-11-29T15:07:36.886Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 55%
+2023-11-29T15:07:36.887Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 56%
+2023-11-29T15:07:36.890Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 57%
+2023-11-29T15:07:36.896Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 58%
+2023-11-29T15:07:36.898Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 59%
+2023-11-29T15:07:36.901Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 61%
+2023-11-29T15:07:36.904Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 62%
+2023-11-29T15:07:36.909Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 64%
+2023-11-29T15:07:36.914Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 65%
+2023-11-29T15:07:36.915Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 66%
+2023-11-29T15:07:36.919Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 67%
+2023-11-29T15:07:36.924Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 69%
+2023-11-29T15:07:36.926Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 70%
+2023-11-29T15:07:36.930Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 71%
+2023-11-29T15:07:36.933Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 72%
+2023-11-29T15:07:36.934Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 73%
+2023-11-29T15:07:36.940Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 75%
+2023-11-29T15:07:36.947Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 77%
+2023-11-29T15:07:36.949Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 78%
+2023-11-29T15:07:36.954Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 80%
+2023-11-29T15:07:36.957Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 81%
+2023-11-29T15:07:36.961Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 82%
+2023-11-29T15:07:36.966Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 84%
+2023-11-29T15:07:36.968Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 85%
+2023-11-29T15:07:36.971Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 86%
+2023-11-29T15:07:36.979Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 88%
+2023-11-29T15:07:36.983Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 90%
+2023-11-29T15:07:36.987Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 92%
+2023-11-29T15:07:36.989Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 93%
+2023-11-29T15:07:36.992Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 94%
+2023-11-29T15:07:37.006Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 95%
+2023-11-29T15:07:37.008Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 96%
+2023-11-29T15:07:37.014Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 98%
+2023-11-29T15:07:37.017Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip: 100%
+2023-11-29T15:07:37.019Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-11-29T15:07:37.019Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip
+2023-11-29T15:07:37.468Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 1%
+2023-11-29T15:07:37.487Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 2%
+2023-11-29T15:07:37.510Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 3%
+2023-11-29T15:07:37.531Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 4%
+2023-11-29T15:07:37.553Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 5%
+2023-11-29T15:07:37.574Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 6%
+2023-11-29T15:07:37.597Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 7%
+2023-11-29T15:07:37.617Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 8%
+2023-11-29T15:07:37.638Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 9%
+2023-11-29T15:07:37.659Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 10%
+2023-11-29T15:07:37.684Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 11%
+2023-11-29T15:07:37.705Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 12%
+2023-11-29T15:07:37.726Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 13%
+2023-11-29T15:07:37.746Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 14%
+2023-11-29T15:07:37.767Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 15%
+2023-11-29T15:07:37.792Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 16%
+2023-11-29T15:07:37.812Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 17%
+2023-11-29T15:07:37.836Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 18%
+2023-11-29T15:07:37.857Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 19%
+2023-11-29T15:07:37.877Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 20%
+2023-11-29T15:07:37.900Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 21%
+2023-11-29T15:07:37.923Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 22%
+2023-11-29T15:07:37.941Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 23%
+2023-11-29T15:07:37.965Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 24%
+2023-11-29T15:07:37.989Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 25%
+2023-11-29T15:07:38.013Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 26%
+2023-11-29T15:07:38.032Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 27%
+2023-11-29T15:07:38.055Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 28%
+2023-11-29T15:07:38.076Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 29%
+2023-11-29T15:07:38.100Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 30%
+2023-11-29T15:07:38.122Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 31%
+2023-11-29T15:07:38.147Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 32%
+2023-11-29T15:07:38.167Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 33%
+2023-11-29T15:07:38.187Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 34%
+2023-11-29T15:07:38.208Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 35%
+2023-11-29T15:07:38.231Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 36%
+2023-11-29T15:07:38.252Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 37%
+2023-11-29T15:07:38.274Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 38%
+2023-11-29T15:07:38.295Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 39%
+2023-11-29T15:07:38.317Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 40%
+2023-11-29T15:07:38.339Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 41%
+2023-11-29T15:07:38.359Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 42%
+2023-11-29T15:07:38.383Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 43%
+2023-11-29T15:07:38.405Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 44%
+2023-11-29T15:07:38.426Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 45%
+2023-11-29T15:07:38.447Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 46%
+2023-11-29T15:07:38.470Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 47%
+2023-11-29T15:07:38.490Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 48%
+2023-11-29T15:07:38.516Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 49%
+2023-11-29T15:07:38.536Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 50%
+2023-11-29T15:07:38.559Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 51%
+2023-11-29T15:07:38.581Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 52%
+2023-11-29T15:07:38.605Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 53%
+2023-11-29T15:07:38.625Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 54%
+2023-11-29T15:07:38.649Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 55%
+2023-11-29T15:07:38.669Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 56%
+2023-11-29T15:07:38.694Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 57%
+2023-11-29T15:07:38.717Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 58%
+2023-11-29T15:07:38.736Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 59%
+2023-11-29T15:07:38.756Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 60%
+2023-11-29T15:07:38.779Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 61%
+2023-11-29T15:07:38.800Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 62%
+2023-11-29T15:07:38.821Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 63%
+2023-11-29T15:07:38.842Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 64%
+2023-11-29T15:07:38.869Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 65%
+2023-11-29T15:07:38.886Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 66%
+2023-11-29T15:07:38.909Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 67%
+2023-11-29T15:07:38.930Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 68%
+2023-11-29T15:07:38.952Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 69%
+2023-11-29T15:07:38.973Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 70%
+2023-11-29T15:07:38.995Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 71%
+2023-11-29T15:07:39.019Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 72%
+2023-11-29T15:07:39.043Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 73%
+2023-11-29T15:07:39.065Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 74%
+2023-11-29T15:07:39.085Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 75%
+2023-11-29T15:07:39.110Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 76%
+2023-11-29T15:07:39.130Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 77%
+2023-11-29T15:07:39.150Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 78%
+2023-11-29T15:07:39.172Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 79%
+2023-11-29T15:07:39.195Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 80%
+2023-11-29T15:07:39.217Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 81%
+2023-11-29T15:07:39.239Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 82%
+2023-11-29T15:07:39.259Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 83%
+2023-11-29T15:07:39.292Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 84%
+2023-11-29T15:07:39.315Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 85%
+2023-11-29T15:07:39.339Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 86%
+2023-11-29T15:07:39.357Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 87%
+2023-11-29T15:07:39.379Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 88%
+2023-11-29T15:07:39.402Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 89%
+2023-11-29T15:07:39.424Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 90%
+2023-11-29T15:07:39.446Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 91%
+2023-11-29T15:07:39.494Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 92%
+2023-11-29T15:07:39.504Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 93%
+2023-11-29T15:07:39.526Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 94%
+2023-11-29T15:07:39.548Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 95%
+2023-11-29T15:07:39.570Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 96%
+2023-11-29T15:07:39.593Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 97%
+2023-11-29T15:07:39.614Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 98%
+2023-11-29T15:07:39.634Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 99%
+2023-11-29T15:07:39.653Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip: 100%
+2023-11-29T15:07:39.656Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-11-29T15:07:39.656Z [Modules] Installing updates...
+2023-11-29T15:07:39.657Z [Modules] Installing discord_desktop_core@1 from /home/sam/.config/discord/0.0.36/modules/pending/discord_desktop_core-1.zip
+2023-11-29T15:07:39.784Z [Modules] Installing discord_erlpack@1 from /home/sam/.config/discord/0.0.36/modules/pending/discord_erlpack-1.zip
+2023-11-29T15:07:39.862Z [Modules] Installing discord_spellcheck@1 from /home/sam/.config/discord/0.0.36/modules/pending/discord_spellcheck-1.zip
+2023-11-29T15:07:40.898Z [Modules] Installing discord_utils@1 from /home/sam/.config/discord/0.0.36/modules/pending/discord_utils-1.zip
+2023-11-29T15:07:41.187Z [Modules] Installing discord_voice@1 from /home/sam/.config/discord/0.0.36/modules/pending/discord_voice-1.zip
+2023-11-29T15:07:42.046Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-11-29T15:07:42.047Z [Modules] Checking for host updates.
+2023-11-29T15:07:42.442Z [Modules] Host is up to date.
+2023-11-29T15:07:42.442Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-29T15:07:42.450Z [Modules] No module updates available.
+2023-11-29T15:07:43.896Z [Modules] Starting to install discord_krisp...
+2023-11-29T15:07:43.897Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-11-29T15:07:43.897Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip
+2023-11-29T15:07:43.919Z [Modules] Starting to install discord_game_utils...
+2023-11-29T15:07:44.379Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 1%
+2023-11-29T15:07:44.404Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 2%
+2023-11-29T15:07:44.436Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 3%
+2023-11-29T15:07:44.457Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 4%
+2023-11-29T15:07:44.479Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 5%
+2023-11-29T15:07:44.496Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 6%
+2023-11-29T15:07:44.516Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 7%
+2023-11-29T15:07:44.535Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 8%
+2023-11-29T15:07:44.560Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 9%
+2023-11-29T15:07:44.579Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 10%
+2023-11-29T15:07:44.596Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 11%
+2023-11-29T15:07:44.618Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 12%
+2023-11-29T15:07:44.636Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 13%
+2023-11-29T15:07:44.659Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 14%
+2023-11-29T15:07:44.673Z [Modules] Checking for host updates.
+2023-11-29T15:07:44.682Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 15%
+2023-11-29T15:07:44.700Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 16%
+2023-11-29T15:07:44.721Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 17%
+2023-11-29T15:07:44.743Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 18%
+2023-11-29T15:07:44.766Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 19%
+2023-11-29T15:07:44.783Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 20%
+2023-11-29T15:07:44.801Z [Modules] Starting to install discord_rpc...
+2023-11-29T15:07:44.804Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 21%
+2023-11-29T15:07:44.826Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 22%
+2023-11-29T15:07:44.848Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 23%
+2023-11-29T15:07:44.870Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 24%
+2023-11-29T15:07:44.888Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 25%
+2023-11-29T15:07:44.921Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 26%
+2023-11-29T15:07:44.943Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 27%
+2023-11-29T15:07:44.965Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 28%
+2023-11-29T15:07:44.989Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 29%
+2023-11-29T15:07:45.006Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 30%
+2023-11-29T15:07:45.073Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 32%
+2023-11-29T15:07:45.103Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 34%
+2023-11-29T15:07:45.108Z [Modules] Host is up to date.
+2023-11-29T15:07:45.108Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-29T15:07:45.121Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 35%
+2023-11-29T15:07:45.238Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 36%
+2023-11-29T15:07:45.244Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 40%
+2023-11-29T15:07:45.246Z [Modules] No module updates available.
+2023-11-29T15:07:45.249Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 41%
+2023-11-29T15:07:45.266Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 42%
+2023-11-29T15:07:45.289Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 43%
+2023-11-29T15:07:45.308Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 44%
+2023-11-29T15:07:45.335Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 45%
+2023-11-29T15:07:45.355Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 46%
+2023-11-29T15:07:45.379Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 47%
+2023-11-29T15:07:45.403Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 48%
+2023-11-29T15:07:45.426Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 49%
+2023-11-29T15:07:45.451Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 50%
+2023-11-29T15:07:45.476Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 51%
+2023-11-29T15:07:45.504Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 52%
+2023-11-29T15:07:45.535Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 53%
+2023-11-29T15:07:45.560Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 54%
+2023-11-29T15:07:45.582Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 55%
+2023-11-29T15:07:45.606Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 56%
+2023-11-29T15:07:45.633Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 57%
+2023-11-29T15:07:45.653Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 58%
+2023-11-29T15:07:45.672Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 59%
+2023-11-29T15:07:45.694Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 60%
+2023-11-29T15:07:45.717Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 61%
+2023-11-29T15:07:45.745Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 62%
+2023-11-29T15:07:45.764Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 63%
+2023-11-29T15:07:45.784Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 64%
+2023-11-29T15:07:45.811Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 65%
+2023-11-29T15:07:45.833Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 66%
+2023-11-29T15:07:45.857Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 67%
+2023-11-29T15:07:45.937Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 68%
+2023-11-29T15:07:46.087Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 69%
+2023-11-29T15:07:46.105Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 70%
+2023-11-29T15:07:46.127Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 71%
+2023-11-29T15:07:46.146Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 72%
+2023-11-29T15:07:46.172Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 73%
+2023-11-29T15:07:46.191Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 74%
+2023-11-29T15:07:46.211Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 75%
+2023-11-29T15:07:46.232Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 76%
+2023-11-29T15:07:46.252Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 77%
+2023-11-29T15:07:46.271Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 78%
+2023-11-29T15:07:46.294Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 79%
+2023-11-29T15:07:46.317Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 80%
+2023-11-29T15:07:46.336Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 81%
+2023-11-29T15:07:46.358Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 82%
+2023-11-29T15:07:46.378Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 83%
+2023-11-29T15:07:46.399Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 84%
+2023-11-29T15:07:46.419Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 85%
+2023-11-29T15:07:46.440Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 86%
+2023-11-29T15:07:46.460Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 87%
+2023-11-29T15:07:46.480Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 88%
+2023-11-29T15:07:46.499Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 89%
+2023-11-29T15:07:46.519Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 90%
+2023-11-29T15:07:46.539Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 91%
+2023-11-29T15:07:46.558Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 92%
+2023-11-29T15:07:46.581Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 93%
+2023-11-29T15:07:46.599Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 94%
+2023-11-29T15:07:46.621Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 95%
+2023-11-29T15:07:46.643Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 96%
+2023-11-29T15:07:46.659Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 97%
+2023-11-29T15:07:46.680Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 98%
+2023-11-29T15:07:46.700Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 99%
+2023-11-29T15:07:46.719Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip: 100%
+2023-11-29T15:07:46.722Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-11-29T15:07:46.722Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip
+2023-11-29T15:07:46.722Z [Modules] Installing discord_krisp@1 from /home/sam/.config/discord/0.0.36/modules/pending/discord_krisp-1.zip
+2023-11-29T15:07:47.115Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 1%
+2023-11-29T15:07:47.120Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 3%
+2023-11-29T15:07:47.123Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 4%
+2023-11-29T15:07:47.146Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 13%
+2023-11-29T15:07:47.151Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 16%
+2023-11-29T15:07:47.165Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 22%
+2023-11-29T15:07:47.167Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 23%
+2023-11-29T15:07:47.171Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 25%
+2023-11-29T15:07:47.175Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 26%
+2023-11-29T15:07:47.179Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 28%
+2023-11-29T15:07:47.181Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 29%
+2023-11-29T15:07:47.187Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 31%
+2023-11-29T15:07:47.190Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 33%
+2023-11-29T15:07:47.193Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 34%
+2023-11-29T15:07:47.198Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 36%
+2023-11-29T15:07:47.200Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 37%
+2023-11-29T15:07:47.203Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 38%
+2023-11-29T15:07:47.206Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 39%
+2023-11-29T15:07:47.208Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 40%
+2023-11-29T15:07:47.212Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 42%
+2023-11-29T15:07:47.216Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 44%
+2023-11-29T15:07:47.219Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 45%
+2023-11-29T15:07:47.221Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 46%
+2023-11-29T15:07:47.223Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 47%
+2023-11-29T15:07:47.226Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 48%
+2023-11-29T15:07:47.227Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 49%
+2023-11-29T15:07:47.231Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 51%
+2023-11-29T15:07:47.234Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 52%
+2023-11-29T15:07:47.237Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 53%
+2023-11-29T15:07:47.238Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 54%
+2023-11-29T15:07:47.240Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 55%
+2023-11-29T15:07:47.245Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 57%
+2023-11-29T15:07:47.248Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 58%
+2023-11-29T15:07:47.252Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 59%
+2023-11-29T15:07:47.256Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 60%
+2023-11-29T15:07:47.258Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 61%
+2023-11-29T15:07:47.263Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 64%
+2023-11-29T15:07:47.266Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 65%
+2023-11-29T15:07:47.271Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 68%
+2023-11-29T15:07:47.275Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 69%
+2023-11-29T15:07:47.277Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 70%
+2023-11-29T15:07:47.282Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 73%
+2023-11-29T15:07:47.287Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 74%
+2023-11-29T15:07:47.290Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 75%
+2023-11-29T15:07:47.291Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 76%
+2023-11-29T15:07:47.293Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 77%
+2023-11-29T15:07:47.298Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 80%
+2023-11-29T15:07:47.302Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 81%
+2023-11-29T15:07:47.307Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 83%
+2023-11-29T15:07:47.309Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 84%
+2023-11-29T15:07:47.311Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 85%
+2023-11-29T15:07:47.314Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 86%
+2023-11-29T15:07:47.318Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 88%
+2023-11-29T15:07:47.322Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 89%
+2023-11-29T15:07:47.323Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 90%
+2023-11-29T15:07:47.326Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 91%
+2023-11-29T15:07:47.331Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 93%
+2023-11-29T15:07:47.334Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 94%
+2023-11-29T15:07:47.344Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 98%
+2023-11-29T15:07:47.347Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip: 100%
+2023-11-29T15:07:47.349Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-11-29T15:07:47.350Z [Modules] Streaming discord_rpc@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_rpc-1.zip
+2023-11-29T15:07:47.370Z [Modules] Installing discord_game_utils@1 from /home/sam/.config/discord/0.0.36/modules/pending/discord_game_utils-1.zip
+2023-11-29T15:07:47.439Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2023-11-29T15:07:47.782Z [Modules] Streaming discord_rpc@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_rpc-1.zip: 38%
+2023-11-29T15:07:47.784Z [Modules] Streaming discord_rpc@1 to /home/sam/.config/discord/0.0.36/modules/pending/discord_rpc-1.zip: 100%
+2023-11-29T15:07:47.785Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-11-29T15:07:47.785Z [Modules] Installing discord_rpc@1 from /home/sam/.config/discord/0.0.36/modules/pending/discord_rpc-1.zip
+2023-11-29T15:07:47.816Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-11-29T16:31:52.312Z [Modules] Modules initializing
+2023-11-29T16:31:52.313Z [Modules] Distribution: remote
+2023-11-29T16:31:52.313Z [Modules] Host updates: enabled
+2023-11-29T16:31:52.313Z [Modules] Module updates: enabled
+2023-11-29T16:31:52.314Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-11-29T16:31:52.314Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-11-29T16:31:52.314Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-11-29T16:31:52.638Z [Modules] No updates to install
+2023-11-29T16:31:52.639Z [Modules] Checking for host updates.
+2023-11-29T16:31:53.159Z [Modules] Host is up to date.
+2023-11-29T16:31:53.160Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-29T16:31:53.238Z [Modules] No module updates available.
+2023-11-29T16:31:55.843Z [Modules] Checking for host updates.
+2023-11-29T16:31:56.237Z [Modules] Host is up to date.
+2023-11-29T16:31:56.238Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-29T16:31:56.246Z [Modules] No module updates available.
+2023-11-30T02:44:35.720Z [Modules] Modules initializing
+2023-11-30T02:44:35.720Z [Modules] Distribution: remote
+2023-11-30T02:44:35.721Z [Modules] Host updates: enabled
+2023-11-30T02:44:35.721Z [Modules] Module updates: enabled
+2023-11-30T02:44:35.721Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-11-30T02:44:35.721Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-11-30T02:44:35.722Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-11-30T02:44:36.062Z [Modules] No updates to install
+2023-11-30T02:44:36.063Z [Modules] Checking for host updates.
+2023-11-30T02:44:36.577Z [Modules] Host is up to date.
+2023-11-30T02:44:36.579Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-30T02:44:36.649Z [Modules] No module updates available.
+2023-11-30T02:44:40.122Z [Modules] Checking for host updates.
+2023-11-30T02:44:40.484Z [Modules] Host is up to date.
+2023-11-30T02:44:40.484Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-30T02:44:40.488Z [Modules] No module updates available.
+2023-11-30T02:44:41.834Z [Modules] Checking for host updates.
+2023-11-30T02:44:42.204Z [Modules] Host is up to date.
+2023-11-30T02:44:42.204Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-30T02:44:42.208Z [Modules] No module updates available.
+2023-11-30T16:07:16.072Z [Modules] Modules initializing
+2023-11-30T16:07:16.073Z [Modules] Distribution: remote
+2023-11-30T16:07:16.073Z [Modules] Host updates: enabled
+2023-11-30T16:07:16.073Z [Modules] Module updates: enabled
+2023-11-30T16:07:16.073Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-11-30T16:07:16.073Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-11-30T16:07:16.074Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-11-30T16:07:16.443Z [Modules] No updates to install
+2023-11-30T16:07:16.444Z [Modules] Checking for host updates.
+2023-11-30T16:07:17.057Z [Modules] Host is up to date.
+2023-11-30T16:07:17.057Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-30T10:22:17.520Z [Modules] No module updates available.
+2023-11-30T10:22:19.690Z [Modules] Checking for host updates.
+2023-11-30T10:22:20.183Z [Modules] Host is up to date.
+2023-11-30T10:22:20.183Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-11-30T10:22:20.208Z [Modules] No module updates available.
+2023-12-01T11:53:53.044Z [Modules] Modules initializing
+2023-12-01T11:53:53.044Z [Modules] Distribution: remote
+2023-12-01T11:53:53.045Z [Modules] Host updates: enabled
+2023-12-01T11:53:53.045Z [Modules] Module updates: enabled
+2023-12-01T11:53:53.045Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-01T11:53:53.045Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-01T11:53:53.045Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-01T11:53:53.683Z [Modules] No updates to install
+2023-12-01T11:53:53.684Z [Modules] Checking for host updates.
+2023-12-01T11:53:54.269Z [Modules] Host is up to date.
+2023-12-01T11:53:54.270Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-01T11:53:54.315Z [Modules] No module updates available.
+2023-12-01T11:53:58.930Z [Modules] Checking for host updates.
+2023-12-01T11:53:59.414Z [Modules] Host is up to date.
+2023-12-01T11:53:59.415Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-01T11:53:59.419Z [Modules] No module updates available.
+2023-12-01T12:53:58.932Z [Modules] Checking for host updates.
+2023-12-01T12:53:59.316Z [Modules] Host is up to date.
+2023-12-01T12:53:59.316Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-01T12:53:59.348Z [Modules] No module updates available.
+2023-12-01T13:53:58.933Z [Modules] Checking for host updates.
+2023-12-01T13:53:59.347Z [Modules] Host is up to date.
+2023-12-01T13:53:59.347Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-01T13:53:59.375Z [Modules] No module updates available.
+2023-12-01T18:00:23.462Z [Modules] Modules initializing
+2023-12-01T18:00:23.463Z [Modules] Distribution: remote
+2023-12-01T18:00:23.464Z [Modules] Host updates: enabled
+2023-12-01T18:00:23.464Z [Modules] Module updates: enabled
+2023-12-01T18:00:23.466Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-01T18:00:23.466Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-01T18:00:23.467Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-01T18:00:23.920Z [Modules] No updates to install
+2023-12-01T18:00:23.923Z [Modules] Checking for host updates.
+2023-12-01T18:00:24.557Z [Modules] Host is up to date.
+2023-12-01T18:00:24.558Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-01T18:00:24.633Z [Modules] No module updates available.
+2023-12-01T18:00:29.607Z [Modules] Checking for host updates.
+2023-12-01T18:00:29.981Z [Modules] Host is up to date.
+2023-12-01T18:00:29.982Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-01T18:00:29.995Z [Modules] No module updates available.
+2023-12-01T19:59:33.223Z [Modules] Modules initializing
+2023-12-01T19:59:33.223Z [Modules] Distribution: remote
+2023-12-01T19:59:33.223Z [Modules] Host updates: enabled
+2023-12-01T19:59:33.223Z [Modules] Module updates: enabled
+2023-12-01T19:59:33.224Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-01T19:59:33.224Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-01T19:59:33.225Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-01T19:59:33.675Z [Modules] No updates to install
+2023-12-01T19:59:33.678Z [Modules] Checking for host updates.
+2023-12-01T19:59:34.279Z [Modules] Host is up to date.
+2023-12-01T19:59:34.280Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-01T19:59:34.305Z [Modules] No module updates available.
+2023-12-01T19:59:40.612Z [Modules] Checking for host updates.
+2023-12-01T19:59:40.987Z [Modules] Host is up to date.
+2023-12-01T19:59:40.987Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-01T19:59:41.002Z [Modules] No module updates available.
+2023-12-02T04:02:32.381Z [Modules] Modules initializing
+2023-12-02T04:02:32.382Z [Modules] Distribution: remote
+2023-12-02T04:02:32.382Z [Modules] Host updates: enabled
+2023-12-02T04:02:32.382Z [Modules] Module updates: enabled
+2023-12-02T04:02:32.383Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-02T04:02:32.383Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-02T04:02:32.383Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-02T04:02:32.819Z [Modules] No updates to install
+2023-12-02T04:02:32.820Z [Modules] Checking for host updates.
+2023-12-02T04:02:33.414Z [Modules] Host is up to date.
+2023-12-02T04:02:33.415Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-02T04:02:33.443Z [Modules] No module updates available.
+2023-12-02T04:02:36.718Z [Modules] Checking for host updates.
+2023-12-02T04:02:37.145Z [Modules] Host is up to date.
+2023-12-02T04:02:37.146Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-02T04:02:37.152Z [Modules] No module updates available.
+2023-12-02T05:03:49.655Z [Modules] Modules initializing
+2023-12-02T05:03:49.656Z [Modules] Distribution: remote
+2023-12-02T05:03:49.656Z [Modules] Host updates: enabled
+2023-12-02T05:03:49.656Z [Modules] Module updates: enabled
+2023-12-02T05:03:49.657Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-02T05:03:49.657Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-02T05:03:49.657Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-02T05:03:49.847Z [Modules] No updates to install
+2023-12-02T05:03:49.848Z [Modules] Checking for host updates.
+2023-12-02T05:03:50.439Z [Modules] Host is up to date.
+2023-12-02T05:03:50.441Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-02T05:03:50.472Z [Modules] No module updates available.
+2023-12-02T05:03:52.886Z [Modules] Checking for host updates.
+2023-12-02T05:03:53.277Z [Modules] Host is up to date.
+2023-12-02T05:03:53.278Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-02T05:03:53.286Z [Modules] No module updates available.
+2023-12-02T08:33:05.555Z [Modules] Modules initializing
+2023-12-02T08:33:05.555Z [Modules] Distribution: remote
+2023-12-02T08:33:05.555Z [Modules] Host updates: enabled
+2023-12-02T08:33:05.555Z [Modules] Module updates: enabled
+2023-12-02T08:33:05.556Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-02T08:33:05.556Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-02T08:33:05.557Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-02T08:33:05.924Z [Modules] No updates to install
+2023-12-02T08:33:05.925Z [Modules] Checking for host updates.
+2023-12-02T08:33:06.708Z [Modules] Host is up to date.
+2023-12-02T08:33:06.709Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-02T08:33:06.840Z [Modules] No module updates available.
+2023-12-02T08:33:09.453Z [Modules] Checking for host updates.
+2023-12-02T08:33:10.118Z [Modules] Host is up to date.
+2023-12-02T08:33:10.118Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-02T08:33:10.126Z [Modules] No module updates available.
+2023-12-03T03:47:53.848Z [Modules] Modules initializing
+2023-12-03T03:47:53.852Z [Modules] Distribution: remote
+2023-12-03T03:47:53.852Z [Modules] Host updates: enabled
+2023-12-03T03:47:53.853Z [Modules] Module updates: enabled
+2023-12-03T03:47:53.853Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-03T03:47:53.853Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-03T03:47:53.853Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-03T03:47:54.404Z [Modules] No updates to install
+2023-12-03T03:47:54.407Z [Modules] Checking for host updates.
+2023-12-03T03:47:54.873Z [Modules] Host is up to date.
+2023-12-03T03:47:54.874Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-03T03:47:54.910Z [Modules] No module updates available.
+2023-12-03T03:47:59.583Z [Modules] Checking for host updates.
+2023-12-03T03:47:59.958Z [Modules] Host is up to date.
+2023-12-03T03:47:59.958Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-03T03:47:59.965Z [Modules] No module updates available.
+2023-12-03T12:56:27.952Z [Modules] Modules initializing
+2023-12-03T12:56:27.953Z [Modules] Distribution: remote
+2023-12-03T12:56:27.953Z [Modules] Host updates: enabled
+2023-12-03T12:56:27.953Z [Modules] Module updates: enabled
+2023-12-03T12:56:27.954Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-03T12:56:27.954Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-03T12:56:27.954Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-03T12:56:28.291Z [Modules] No updates to install
+2023-12-03T12:56:28.292Z [Modules] Checking for host updates.
+2023-12-03T12:56:28.808Z [Modules] Host is up to date.
+2023-12-03T12:56:28.808Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-03T12:56:28.838Z [Modules] No module updates available.
+2023-12-03T12:56:32.649Z [Modules] Checking for host updates.
+2023-12-03T12:56:33.036Z [Modules] Host is up to date.
+2023-12-03T12:56:33.037Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-03T12:56:33.048Z [Modules] No module updates available.
+2023-12-03T13:56:32.651Z [Modules] Checking for host updates.
+2023-12-03T13:56:33.148Z [Modules] Host is up to date.
+2023-12-03T13:56:33.149Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-03T13:56:33.183Z [Modules] No module updates available.
+2023-12-03T14:56:32.650Z [Modules] Checking for host updates.
+2023-12-03T14:56:33.083Z [Modules] Host is up to date.
+2023-12-03T14:56:33.083Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-03T14:56:33.141Z [Modules] No module updates available.
+2023-12-05T11:14:46.529Z [Modules] Modules initializing
+2023-12-05T11:14:46.529Z [Modules] Distribution: remote
+2023-12-05T11:14:46.530Z [Modules] Host updates: enabled
+2023-12-05T11:14:46.530Z [Modules] Module updates: enabled
+2023-12-05T11:14:46.531Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-05T11:14:46.531Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-05T11:14:46.532Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-05T11:14:46.922Z [Modules] No updates to install
+2023-12-05T11:14:46.923Z [Modules] Checking for host updates.
+2023-12-05T11:14:47.443Z [Modules] Host is up to date.
+2023-12-05T11:14:47.444Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-05T11:14:47.487Z [Modules] No module updates available.
+2023-12-05T11:14:51.465Z [Modules] Checking for host updates.
+2023-12-05T11:14:51.941Z [Modules] Host is up to date.
+2023-12-05T11:14:51.942Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-05T11:14:51.948Z [Modules] No module updates available.
+2023-12-06T03:24:11.796Z [Modules] Modules initializing
+2023-12-06T03:24:11.796Z [Modules] Distribution: remote
+2023-12-06T03:24:11.797Z [Modules] Host updates: enabled
+2023-12-06T03:24:11.797Z [Modules] Module updates: enabled
+2023-12-06T03:24:11.797Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-06T03:24:11.797Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-06T03:24:11.797Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-06T03:24:12.195Z [Modules] No updates to install
+2023-12-06T03:24:12.197Z [Modules] Checking for host updates.
+2023-12-06T03:24:12.673Z [Modules] Host update is available. Manual update required!
+2023-12-06T03:24:33.759Z [Modules] Modules initializing
+2023-12-06T03:24:33.759Z [Modules] Distribution: remote
+2023-12-06T03:24:33.759Z [Modules] Host updates: enabled
+2023-12-06T03:24:33.759Z [Modules] Module updates: enabled
+2023-12-06T03:24:33.760Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-06T03:24:33.760Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-06T03:24:33.760Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-06T03:24:33.944Z [Modules] No updates to install
+2023-12-06T03:24:33.946Z [Modules] Checking for host updates.
+2023-12-06T03:24:34.434Z [Modules] Host update is available. Manual update required!
+2023-12-07T02:40:37.347Z [Modules] Modules initializing
+2023-12-07T02:40:37.349Z [Modules] Distribution: remote
+2023-12-07T02:40:37.349Z [Modules] Host updates: enabled
+2023-12-07T02:40:37.350Z [Modules] Module updates: enabled
+2023-12-07T02:40:37.350Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-07T02:40:37.351Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-07T02:40:37.351Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-07T02:40:37.793Z [Modules] No updates to install
+2023-12-07T02:40:37.798Z [Modules] Checking for host updates.
+2023-12-07T02:40:38.483Z [Modules] Host update is available. Manual update required!
+2023-12-07T02:40:52.408Z [Modules] Modules initializing
+2023-12-07T02:40:52.408Z [Modules] Distribution: remote
+2023-12-07T02:40:52.408Z [Modules] Host updates: enabled
+2023-12-07T02:40:52.408Z [Modules] Module updates: enabled
+2023-12-07T02:40:52.409Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-07T02:40:52.409Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-07T02:40:52.409Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-07T02:40:52.599Z [Modules] No updates to install
+2023-12-07T02:40:52.600Z [Modules] Checking for host updates.
+2023-12-07T02:40:53.167Z [Modules] Host update is available. Manual update required!
+2023-12-07T02:41:00.489Z [Modules] Modules initializing
+2023-12-07T02:41:00.489Z [Modules] Distribution: remote
+2023-12-07T02:41:00.489Z [Modules] Host updates: enabled
+2023-12-07T02:41:00.490Z [Modules] Module updates: enabled
+2023-12-07T02:41:00.490Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-07T02:41:00.490Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-07T02:41:00.491Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-07T02:41:00.704Z [Modules] No updates to install
+2023-12-07T02:41:00.706Z [Modules] Checking for host updates.
+2023-12-07T02:41:01.246Z [Modules] Host update is available. Manual update required!
+2023-12-07T13:52:22.958Z [Modules] Modules initializing
+2023-12-07T13:52:22.958Z [Modules] Distribution: remote
+2023-12-07T13:52:22.959Z [Modules] Host updates: enabled
+2023-12-07T13:52:22.959Z [Modules] Module updates: enabled
+2023-12-07T13:52:22.959Z [Modules] Module install path: /home/sam/.config/discord/0.0.36/modules
+2023-12-07T13:52:22.959Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.36/modules/installed.json
+2023-12-07T13:52:22.960Z [Modules] Module download path: /home/sam/.config/discord/0.0.36/modules/pending
+2023-12-07T13:52:23.324Z [Modules] No updates to install
+2023-12-07T13:52:23.325Z [Modules] Checking for host updates.
+2023-12-07T13:52:23.902Z [Modules] Host update is available. Manual update required!
+2023-12-07T13:56:29.752Z [Modules] Modules initializing
+2023-12-07T13:56:29.753Z [Modules] Distribution: remote
+2023-12-07T13:56:29.753Z [Modules] Host updates: enabled
+2023-12-07T13:56:29.753Z [Modules] Module updates: enabled
+2023-12-07T13:56:29.754Z [Modules] Module install path: /home/sam/.config/discord/0.0.37/modules
+2023-12-07T13:56:29.754Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.37/modules/installed.json
+2023-12-07T13:56:29.754Z [Modules] Module download path: /home/sam/.config/discord/0.0.37/modules/pending
+2023-12-07T13:56:30.095Z [Modules] Bootstrapping...
+2023-12-07T13:56:30.096Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-12-07T13:56:30.099Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-12-07T13:56:30.099Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-12-07T13:56:30.101Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-12-07T13:56:30.101Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-12-07T13:56:30.103Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-12-07T13:56:30.104Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-12-07T13:56:30.104Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-12-07T13:56:30.105Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-12-07T13:56:30.106Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-12-07T13:56:30.107Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-12-07T13:56:30.107Z [Modules] Checking for host updates.
+2023-12-07T13:56:30.688Z [Modules] Host is up to date.
+2023-12-07T13:56:30.688Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-07T13:56:30.761Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-12-07T13:56:30.762Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-12-07T13:56:30.762Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-12-07T13:56:30.762Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-12-07T13:56:30.763Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-12-07T13:56:30.764Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-12-07T13:56:30.764Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip
+2023-12-07T13:56:31.358Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 1%
+2023-12-07T13:56:31.364Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 2%
+2023-12-07T13:56:31.372Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 5%
+2023-12-07T13:56:31.373Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 6%
+2023-12-07T13:56:31.379Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 9%
+2023-12-07T13:56:31.381Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 10%
+2023-12-07T13:56:31.383Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 11%
+2023-12-07T13:56:31.385Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 12%
+2023-12-07T13:56:31.387Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 13%
+2023-12-07T13:56:31.389Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 14%
+2023-12-07T13:56:31.394Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 15%
+2023-12-07T13:56:31.397Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 17%
+2023-12-07T13:56:31.399Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 18%
+2023-12-07T13:56:31.401Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 20%
+2023-12-07T13:56:31.404Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 22%
+2023-12-07T13:56:31.407Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 23%
+2023-12-07T13:56:31.408Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 24%
+2023-12-07T13:56:31.413Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 26%
+2023-12-07T13:56:31.414Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 27%
+2023-12-07T13:56:31.417Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 28%
+2023-12-07T13:56:31.418Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 29%
+2023-12-07T13:56:31.420Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 30%
+2023-12-07T13:56:31.426Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 33%
+2023-12-07T13:56:31.430Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 34%
+2023-12-07T13:56:31.431Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 36%
+2023-12-07T13:56:31.433Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 37%
+2023-12-07T13:56:31.435Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 38%
+2023-12-07T13:56:31.436Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 39%
+2023-12-07T13:56:31.439Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 40%
+2023-12-07T13:56:31.440Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 41%
+2023-12-07T13:56:31.445Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 42%
+2023-12-07T13:56:31.448Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 45%
+2023-12-07T13:56:31.451Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 46%
+2023-12-07T13:56:31.455Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 48%
+2023-12-07T13:56:31.456Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 49%
+2023-12-07T13:56:31.458Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 50%
+2023-12-07T13:56:31.460Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 51%
+2023-12-07T13:56:31.463Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 52%
+2023-12-07T13:56:31.466Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 54%
+2023-12-07T13:56:31.468Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 55%
+2023-12-07T13:56:31.469Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 56%
+2023-12-07T13:56:31.472Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 57%
+2023-12-07T13:56:31.474Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 58%
+2023-12-07T13:56:31.475Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 59%
+2023-12-07T13:56:31.479Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 61%
+2023-12-07T13:56:31.481Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 62%
+2023-12-07T13:56:31.482Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 63%
+2023-12-07T13:56:31.485Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 64%
+2023-12-07T13:56:31.488Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 65%
+2023-12-07T13:56:31.489Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 66%
+2023-12-07T13:56:31.490Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 67%
+2023-12-07T13:56:31.497Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 70%
+2023-12-07T13:56:31.499Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 71%
+2023-12-07T13:56:31.502Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 73%
+2023-12-07T13:56:31.503Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 74%
+2023-12-07T13:56:31.506Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 75%
+2023-12-07T13:56:31.508Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 76%
+2023-12-07T13:56:31.510Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 77%
+2023-12-07T13:56:31.515Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 79%
+2023-12-07T13:56:31.516Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 80%
+2023-12-07T13:56:31.519Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 82%
+2023-12-07T13:56:31.524Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 84%
+2023-12-07T13:56:31.527Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 86%
+2023-12-07T13:56:31.531Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 88%
+2023-12-07T13:56:31.533Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 89%
+2023-12-07T13:56:31.535Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 90%
+2023-12-07T13:56:31.536Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 91%
+2023-12-07T13:56:31.539Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 92%
+2023-12-07T13:56:31.540Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 93%
+2023-12-07T13:56:31.543Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 94%
+2023-12-07T13:56:31.549Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 95%
+2023-12-07T13:56:31.553Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 97%
+2023-12-07T13:56:31.556Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 98%
+2023-12-07T13:56:31.557Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip: 100%
+2023-12-07T13:56:31.562Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-12-07T13:56:31.562Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip
+2023-12-07T13:56:32.139Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 2%
+2023-12-07T13:56:32.142Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 4%
+2023-12-07T13:56:32.147Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 6%
+2023-12-07T13:56:32.151Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 8%
+2023-12-07T13:56:32.153Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 10%
+2023-12-07T13:56:32.156Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 11%
+2023-12-07T13:56:32.162Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 15%
+2023-12-07T13:56:32.165Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 17%
+2023-12-07T13:56:32.170Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 20%
+2023-12-07T13:56:32.174Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 23%
+2023-12-07T13:56:32.177Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 24%
+2023-12-07T13:56:32.182Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 28%
+2023-12-07T13:56:32.185Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 29%
+2023-12-07T13:56:32.189Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 33%
+2023-12-07T13:56:32.192Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 34%
+2023-12-07T13:56:32.194Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 35%
+2023-12-07T13:56:32.199Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 39%
+2023-12-07T13:56:32.201Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 40%
+2023-12-07T13:56:32.203Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 41%
+2023-12-07T13:56:32.208Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 44%
+2023-12-07T13:56:32.214Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 47%
+2023-12-07T13:56:32.216Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 48%
+2023-12-07T13:56:32.220Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 51%
+2023-12-07T13:56:32.222Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 53%
+2023-12-07T13:56:32.226Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 54%
+2023-12-07T13:56:32.230Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 58%
+2023-12-07T13:56:32.233Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 59%
+2023-12-07T13:56:32.237Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 62%
+2023-12-07T13:56:32.240Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 63%
+2023-12-07T13:56:32.242Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 64%
+2023-12-07T13:56:32.245Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 65%
+2023-12-07T13:56:32.249Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 69%
+2023-12-07T13:56:32.251Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 70%
+2023-12-07T13:56:32.257Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 73%
+2023-12-07T13:56:32.259Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 74%
+2023-12-07T13:56:32.263Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 77%
+2023-12-07T13:56:32.265Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 78%
+2023-12-07T13:56:32.267Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 79%
+2023-12-07T13:56:32.270Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 81%
+2023-12-07T13:56:32.275Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 83%
+2023-12-07T13:56:32.276Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 84%
+2023-12-07T13:56:32.286Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 88%
+2023-12-07T13:56:32.287Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 91%
+2023-12-07T13:56:32.291Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 94%
+2023-12-07T13:56:32.297Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 97%
+2023-12-07T13:56:32.299Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip: 100%
+2023-12-07T13:56:32.301Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-12-07T13:56:32.302Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip
+2023-12-07T13:56:32.782Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 1%
+2023-12-07T13:56:32.791Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 2%
+2023-12-07T13:56:32.796Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 3%
+2023-12-07T13:56:32.806Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 4%
+2023-12-07T13:56:32.814Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 5%
+2023-12-07T13:56:32.830Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 6%
+2023-12-07T13:56:32.836Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 7%
+2023-12-07T13:56:32.843Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 8%
+2023-12-07T13:56:32.850Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 9%
+2023-12-07T13:56:32.860Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 10%
+2023-12-07T13:56:32.869Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 11%
+2023-12-07T13:56:32.878Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 12%
+2023-12-07T13:56:32.886Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 13%
+2023-12-07T13:56:32.897Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 14%
+2023-12-07T13:56:32.903Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 15%
+2023-12-07T13:56:32.914Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 16%
+2023-12-07T13:56:32.921Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 17%
+2023-12-07T13:56:32.930Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 18%
+2023-12-07T13:56:32.939Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 19%
+2023-12-07T13:56:32.949Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 20%
+2023-12-07T13:56:32.959Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 21%
+2023-12-07T13:56:32.965Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 22%
+2023-12-07T13:56:32.976Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 23%
+2023-12-07T13:56:32.984Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 24%
+2023-12-07T13:56:32.993Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 25%
+2023-12-07T13:56:33.001Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 26%
+2023-12-07T13:56:33.012Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 27%
+2023-12-07T13:56:33.020Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 28%
+2023-12-07T13:56:33.029Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 29%
+2023-12-07T13:56:33.038Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 30%
+2023-12-07T13:56:33.046Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 31%
+2023-12-07T13:56:33.054Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 32%
+2023-12-07T13:56:33.063Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 33%
+2023-12-07T13:56:33.076Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 34%
+2023-12-07T13:56:33.086Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 35%
+2023-12-07T13:56:33.093Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 36%
+2023-12-07T13:56:33.101Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 37%
+2023-12-07T13:56:33.109Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 38%
+2023-12-07T13:56:33.116Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 39%
+2023-12-07T13:56:33.125Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 40%
+2023-12-07T13:56:33.135Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 41%
+2023-12-07T13:56:33.145Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 42%
+2023-12-07T13:56:33.150Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 43%
+2023-12-07T13:56:33.163Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 44%
+2023-12-07T13:56:33.170Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 45%
+2023-12-07T13:56:33.180Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 46%
+2023-12-07T13:56:33.187Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 47%
+2023-12-07T13:56:33.199Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 48%
+2023-12-07T13:56:33.205Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 49%
+2023-12-07T13:56:33.214Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 50%
+2023-12-07T13:56:33.223Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 51%
+2023-12-07T13:56:33.235Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 52%
+2023-12-07T13:56:33.238Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 53%
+2023-12-07T13:56:33.250Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 54%
+2023-12-07T13:56:33.256Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 55%
+2023-12-07T13:56:33.269Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 56%
+2023-12-07T13:56:33.278Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 57%
+2023-12-07T13:56:33.286Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 58%
+2023-12-07T13:56:33.296Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 59%
+2023-12-07T13:56:33.305Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 60%
+2023-12-07T13:56:33.315Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 61%
+2023-12-07T13:56:33.322Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 62%
+2023-12-07T13:56:33.332Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 63%
+2023-12-07T13:56:33.339Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 64%
+2023-12-07T13:56:33.352Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 65%
+2023-12-07T13:56:33.361Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 66%
+2023-12-07T13:56:33.368Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 67%
+2023-12-07T13:56:33.374Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 68%
+2023-12-07T13:56:33.385Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 69%
+2023-12-07T13:56:33.393Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 70%
+2023-12-07T13:56:33.399Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 71%
+2023-12-07T13:56:33.414Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 72%
+2023-12-07T13:56:33.418Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 73%
+2023-12-07T13:56:33.430Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 74%
+2023-12-07T13:56:33.437Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 75%
+2023-12-07T13:56:33.445Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 76%
+2023-12-07T13:56:33.456Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 77%
+2023-12-07T13:56:33.462Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 78%
+2023-12-07T13:56:33.473Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 79%
+2023-12-07T13:56:33.481Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 80%
+2023-12-07T13:56:33.491Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 81%
+2023-12-07T13:56:33.498Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 82%
+2023-12-07T13:56:33.504Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 83%
+2023-12-07T13:56:33.516Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 84%
+2023-12-07T13:56:33.523Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 85%
+2023-12-07T13:56:33.532Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 86%
+2023-12-07T13:56:33.541Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 87%
+2023-12-07T13:56:33.549Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 88%
+2023-12-07T13:56:33.560Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 89%
+2023-12-07T13:56:33.571Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 90%
+2023-12-07T13:56:33.579Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 91%
+2023-12-07T13:56:33.586Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 92%
+2023-12-07T13:56:33.595Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 93%
+2023-12-07T13:56:33.606Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 94%
+2023-12-07T13:56:33.615Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 95%
+2023-12-07T13:56:33.624Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 96%
+2023-12-07T13:56:33.634Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 97%
+2023-12-07T13:56:33.645Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 98%
+2023-12-07T13:56:33.654Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 99%
+2023-12-07T13:56:33.657Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip: 100%
+2023-12-07T13:56:33.661Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-12-07T13:56:33.662Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip
+2023-12-07T13:56:34.093Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 2%
+2023-12-07T13:56:34.097Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 3%
+2023-12-07T13:56:34.099Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 4%
+2023-12-07T13:56:34.103Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 5%
+2023-12-07T13:56:34.105Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 6%
+2023-12-07T13:56:34.108Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 7%
+2023-12-07T13:56:34.113Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 9%
+2023-12-07T13:56:34.118Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 11%
+2023-12-07T13:56:34.123Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 12%
+2023-12-07T13:56:34.126Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 13%
+2023-12-07T13:56:34.131Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 15%
+2023-12-07T13:56:34.136Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 17%
+2023-12-07T13:56:34.141Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 19%
+2023-12-07T13:56:34.148Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 20%
+2023-12-07T13:56:34.168Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 26%
+2023-12-07T13:56:34.170Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 28%
+2023-12-07T13:56:34.172Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 30%
+2023-12-07T13:56:34.179Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 32%
+2023-12-07T13:56:34.184Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 34%
+2023-12-07T13:56:34.187Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 35%
+2023-12-07T13:56:34.195Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 37%
+2023-12-07T13:56:34.198Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 39%
+2023-12-07T13:56:34.201Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 41%
+2023-12-07T13:56:34.206Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 42%
+2023-12-07T13:56:34.210Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 44%
+2023-12-07T13:56:34.216Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 46%
+2023-12-07T13:56:34.221Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 47%
+2023-12-07T13:56:34.223Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 48%
+2023-12-07T13:56:34.226Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 49%
+2023-12-07T13:56:34.230Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 51%
+2023-12-07T13:56:34.235Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 53%
+2023-12-07T13:56:34.238Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 54%
+2023-12-07T13:56:34.242Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 55%
+2023-12-07T13:56:34.247Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 57%
+2023-12-07T13:56:34.253Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 59%
+2023-12-07T13:56:34.257Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 61%
+2023-12-07T13:56:34.262Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 62%
+2023-12-07T13:56:34.265Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 64%
+2023-12-07T13:56:34.269Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 65%
+2023-12-07T13:56:34.273Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 66%
+2023-12-07T13:56:34.278Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 68%
+2023-12-07T13:56:34.281Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 69%
+2023-12-07T13:56:34.286Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 71%
+2023-12-07T13:56:34.293Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 73%
+2023-12-07T13:56:34.295Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 74%
+2023-12-07T13:56:34.298Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 75%
+2023-12-07T13:56:34.302Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 77%
+2023-12-07T13:56:34.305Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 78%
+2023-12-07T13:56:34.310Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 79%
+2023-12-07T13:56:34.312Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 80%
+2023-12-07T13:56:34.315Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 82%
+2023-12-07T13:56:34.320Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 83%
+2023-12-07T13:56:34.322Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 84%
+2023-12-07T13:56:34.328Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 86%
+2023-12-07T13:56:34.330Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 87%
+2023-12-07T13:56:34.333Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 88%
+2023-12-07T13:56:34.336Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 89%
+2023-12-07T13:56:34.341Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 90%
+2023-12-07T13:56:34.346Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 92%
+2023-12-07T13:56:34.350Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 94%
+2023-12-07T13:56:34.353Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 95%
+2023-12-07T13:56:34.358Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 96%
+2023-12-07T13:56:34.361Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 97%
+2023-12-07T13:56:34.366Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 99%
+2023-12-07T13:56:34.367Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip: 100%
+2023-12-07T13:56:34.370Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-12-07T13:56:34.371Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip
+2023-12-07T13:56:34.830Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 1%
+2023-12-07T13:56:34.852Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 2%
+2023-12-07T13:56:34.876Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 3%
+2023-12-07T13:56:34.898Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 4%
+2023-12-07T13:56:34.920Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 5%
+2023-12-07T13:56:34.941Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 6%
+2023-12-07T13:56:34.964Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 7%
+2023-12-07T13:56:34.987Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 8%
+2023-12-07T13:56:35.013Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 9%
+2023-12-07T13:56:35.030Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 10%
+2023-12-07T13:56:35.053Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 11%
+2023-12-07T13:56:35.076Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 12%
+2023-12-07T13:56:35.104Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 13%
+2023-12-07T13:56:35.127Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 14%
+2023-12-07T13:56:35.150Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 15%
+2023-12-07T13:56:35.171Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 16%
+2023-12-07T13:56:35.193Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 17%
+2023-12-07T13:56:35.216Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 18%
+2023-12-07T13:56:35.236Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 19%
+2023-12-07T13:56:35.261Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 20%
+2023-12-07T13:56:35.281Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 21%
+2023-12-07T13:56:35.302Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 22%
+2023-12-07T13:56:35.325Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 23%
+2023-12-07T13:56:35.346Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 24%
+2023-12-07T13:56:35.366Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 25%
+2023-12-07T13:56:35.389Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 26%
+2023-12-07T13:56:35.411Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 27%
+2023-12-07T13:56:35.434Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 28%
+2023-12-07T13:56:35.456Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 29%
+2023-12-07T13:56:35.475Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 30%
+2023-12-07T13:56:35.499Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 31%
+2023-12-07T13:56:35.521Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 32%
+2023-12-07T13:56:35.541Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 33%
+2023-12-07T13:56:35.567Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 34%
+2023-12-07T13:56:35.586Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 35%
+2023-12-07T13:56:35.606Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 36%
+2023-12-07T13:56:35.631Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 37%
+2023-12-07T13:56:35.653Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 38%
+2023-12-07T13:56:35.674Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 39%
+2023-12-07T13:56:35.695Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 40%
+2023-12-07T13:56:35.717Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 41%
+2023-12-07T13:56:35.739Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 42%
+2023-12-07T13:56:35.760Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 43%
+2023-12-07T13:56:35.781Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 44%
+2023-12-07T13:56:35.804Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 45%
+2023-12-07T13:56:35.826Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 46%
+2023-12-07T13:56:35.849Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 47%
+2023-12-07T13:56:35.874Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 48%
+2023-12-07T13:56:35.895Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 49%
+2023-12-07T13:56:35.917Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 50%
+2023-12-07T13:56:35.941Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 51%
+2023-12-07T13:56:35.962Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 52%
+2023-12-07T13:56:35.988Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 53%
+2023-12-07T13:56:36.006Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 54%
+2023-12-07T13:56:36.027Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 55%
+2023-12-07T13:56:36.049Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 56%
+2023-12-07T13:56:36.071Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 57%
+2023-12-07T13:56:36.091Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 58%
+2023-12-07T13:56:36.122Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 59%
+2023-12-07T13:56:36.136Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 60%
+2023-12-07T13:56:36.157Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 61%
+2023-12-07T13:56:36.184Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 62%
+2023-12-07T13:56:36.205Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 63%
+2023-12-07T13:56:36.224Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 64%
+2023-12-07T13:56:36.246Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 65%
+2023-12-07T13:56:36.275Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 66%
+2023-12-07T13:56:36.299Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 67%
+2023-12-07T13:56:36.318Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 68%
+2023-12-07T13:56:36.337Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 69%
+2023-12-07T13:56:36.366Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 70%
+2023-12-07T13:56:36.381Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 71%
+2023-12-07T13:56:36.402Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 72%
+2023-12-07T13:56:36.424Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 73%
+2023-12-07T13:56:36.449Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 74%
+2023-12-07T13:56:36.469Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 75%
+2023-12-07T13:56:36.494Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 76%
+2023-12-07T13:56:36.513Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 77%
+2023-12-07T13:56:36.534Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 78%
+2023-12-07T13:56:36.555Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 79%
+2023-12-07T13:56:36.577Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 80%
+2023-12-07T13:56:36.602Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 81%
+2023-12-07T13:56:36.631Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 82%
+2023-12-07T13:56:36.650Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 83%
+2023-12-07T13:56:36.673Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 84%
+2023-12-07T13:56:36.698Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 85%
+2023-12-07T13:56:36.718Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 86%
+2023-12-07T13:56:36.737Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 87%
+2023-12-07T13:56:36.764Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 88%
+2023-12-07T13:56:36.789Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 89%
+2023-12-07T13:56:36.803Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 90%
+2023-12-07T13:56:36.834Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 91%
+2023-12-07T13:56:36.854Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 92%
+2023-12-07T13:56:36.878Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 93%
+2023-12-07T13:56:36.901Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 94%
+2023-12-07T13:56:36.923Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 95%
+2023-12-07T13:56:36.942Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 96%
+2023-12-07T13:56:36.964Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 97%
+2023-12-07T13:56:36.997Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 98%
+2023-12-07T13:56:37.017Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 99%
+2023-12-07T13:56:37.038Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip: 100%
+2023-12-07T13:56:37.040Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-12-07T13:56:37.041Z [Modules] Installing updates...
+2023-12-07T13:56:37.041Z [Modules] Installing discord_desktop_core@1 from /home/sam/.config/discord/0.0.37/modules/pending/discord_desktop_core-1.zip
+2023-12-07T13:56:37.451Z [Modules] Installing discord_erlpack@1 from /home/sam/.config/discord/0.0.37/modules/pending/discord_erlpack-1.zip
+2023-12-07T13:56:37.723Z [Modules] Installing discord_spellcheck@1 from /home/sam/.config/discord/0.0.37/modules/pending/discord_spellcheck-1.zip
+2023-12-07T13:56:41.619Z [Modules] Installing discord_utils@1 from /home/sam/.config/discord/0.0.37/modules/pending/discord_utils-1.zip
+2023-12-07T13:56:42.954Z [Modules] Installing discord_voice@1 from /home/sam/.config/discord/0.0.37/modules/pending/discord_voice-1.zip
+2023-12-07T13:56:46.120Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-12-07T13:56:46.120Z [Modules] Checking for host updates.
+2023-12-07T13:56:46.547Z [Modules] Host is up to date.
+2023-12-07T13:56:46.547Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-07T13:56:46.580Z [Modules] No module updates available.
+2023-12-07T13:56:51.108Z [Modules] Starting to install discord_krisp...
+2023-12-07T13:56:51.109Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-12-07T13:56:51.109Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip
+2023-12-07T13:56:51.155Z [Modules] Starting to install discord_game_utils...
+2023-12-07T13:56:51.621Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 1%
+2023-12-07T13:56:51.641Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 2%
+2023-12-07T13:56:51.663Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 3%
+2023-12-07T13:56:51.681Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 4%
+2023-12-07T13:56:51.702Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 5%
+2023-12-07T13:56:51.728Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 6%
+2023-12-07T13:56:51.739Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 7%
+2023-12-07T13:56:51.761Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 8%
+2023-12-07T13:56:51.779Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 9%
+2023-12-07T13:56:51.798Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 10%
+2023-12-07T13:56:51.830Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 11%
+2023-12-07T13:56:51.836Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 12%
+2023-12-07T13:56:51.859Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 13%
+2023-12-07T13:56:51.886Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 14%
+2023-12-07T13:56:51.899Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 15%
+2023-12-07T13:56:51.918Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 16%
+2023-12-07T13:56:51.943Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 17%
+2023-12-07T13:56:51.958Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 18%
+2023-12-07T13:56:51.982Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 19%
+2023-12-07T13:56:51.998Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 20%
+2023-12-07T13:56:52.030Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 21%
+2023-12-07T13:56:52.607Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 22%
+2023-12-07T13:56:52.846Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 23%
+2023-12-07T13:56:52.947Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 24%
+2023-12-07T13:56:53.007Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 25%
+2023-12-07T13:56:53.017Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 26%
+2023-12-07T13:56:53.037Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 27%
+2023-12-07T13:56:53.044Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 28%
+2023-12-07T13:56:53.057Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 29%
+2023-12-07T13:56:53.068Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 33%
+2023-12-07T13:56:53.080Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 36%
+2023-12-07T13:56:53.091Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 38%
+2023-12-07T13:56:53.111Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 40%
+2023-12-07T13:56:53.115Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 41%
+2023-12-07T13:56:53.208Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 45%
+2023-12-07T13:56:53.243Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 46%
+2023-12-07T13:56:53.260Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 47%
+2023-12-07T13:56:53.322Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 50%
+2023-12-07T13:56:53.332Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 51%
+2023-12-07T13:56:53.343Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 52%
+2023-12-07T13:56:53.352Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 53%
+2023-12-07T13:56:53.371Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 54%
+2023-12-07T13:56:53.380Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 55%
+2023-12-07T13:56:53.405Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 56%
+2023-12-07T13:56:53.427Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 57%
+2023-12-07T13:56:53.453Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 58%
+2023-12-07T13:56:53.479Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 59%
+2023-12-07T13:56:53.491Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 60%
+2023-12-07T13:56:53.509Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 61%
+2023-12-07T13:56:53.527Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 62%
+2023-12-07T13:56:53.554Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 63%
+2023-12-07T13:56:53.580Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 64%
+2023-12-07T13:56:53.590Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 65%
+2023-12-07T13:56:53.613Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 66%
+2023-12-07T13:56:53.630Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 67%
+2023-12-07T13:56:53.643Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 68%
+2023-12-07T13:56:53.666Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 69%
+2023-12-07T13:56:53.687Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 70%
+2023-12-07T13:56:53.718Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 71%
+2023-12-07T13:56:53.732Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 72%
+2023-12-07T13:56:53.759Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 73%
+2023-12-07T13:56:53.780Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 74%
+2023-12-07T13:56:53.805Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 76%
+2023-12-07T13:56:53.840Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 77%
+2023-12-07T13:56:53.856Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 78%
+2023-12-07T13:56:53.881Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 79%
+2023-12-07T13:56:53.891Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 80%
+2023-12-07T13:56:53.915Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 81%
+2023-12-07T13:56:53.932Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 82%
+2023-12-07T13:56:53.957Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 83%
+2023-12-07T13:56:53.979Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 84%
+2023-12-07T13:56:53.993Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 85%
+2023-12-07T13:56:54.043Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 86%
+2023-12-07T13:56:54.067Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 87%
+2023-12-07T13:56:54.090Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 88%
+2023-12-07T13:56:54.113Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 89%
+2023-12-07T13:56:54.127Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 90%
+2023-12-07T13:56:54.156Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 91%
+2023-12-07T13:56:54.173Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 92%
+2023-12-07T13:56:54.193Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 93%
+2023-12-07T13:56:54.208Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 94%
+2023-12-07T13:56:54.225Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 95%
+2023-12-07T13:56:54.246Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 96%
+2023-12-07T13:56:54.267Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 97%
+2023-12-07T13:56:54.312Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 98%
+2023-12-07T13:56:54.325Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 99%
+2023-12-07T13:56:54.344Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip: 100%
+2023-12-07T13:56:54.353Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-12-07T13:56:54.356Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip
+2023-12-07T13:56:54.356Z [Modules] Installing discord_krisp@1 from /home/sam/.config/discord/0.0.37/modules/pending/discord_krisp-1.zip
+2023-12-07T13:56:54.604Z [Modules] Checking for host updates.
+2023-12-07T13:56:54.895Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 2%
+2023-12-07T13:56:54.900Z [Modules] Starting to install discord_rpc...
+2023-12-07T13:56:54.910Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 11%
+2023-12-07T13:56:54.923Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 19%
+2023-12-07T13:56:54.954Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 31%
+2023-12-07T13:56:54.975Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 42%
+2023-12-07T13:56:54.978Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 44%
+2023-12-07T13:56:55.002Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 51%
+2023-12-07T13:56:55.007Z [Modules] Host is up to date.
+2023-12-07T13:56:55.007Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-07T13:56:55.010Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 59%
+2023-12-07T13:56:55.018Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 62%
+2023-12-07T13:56:55.036Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 65%
+2023-12-07T13:56:55.038Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 70%
+2023-12-07T13:56:55.042Z [Modules] No module updates available.
+2023-12-07T13:56:55.046Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 73%
+2023-12-07T13:56:55.054Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 79%
+2023-12-07T13:56:55.071Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 83%
+2023-12-07T13:56:55.079Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 90%
+2023-12-07T13:56:55.081Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 91%
+2023-12-07T13:56:55.084Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 94%
+2023-12-07T13:56:55.088Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 95%
+2023-12-07T13:56:55.095Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 98%
+2023-12-07T13:56:55.100Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip: 100%
+2023-12-07T13:56:55.102Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-12-07T13:56:55.102Z [Modules] Streaming discord_rpc@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_rpc-1.zip
+2023-12-07T13:56:55.565Z [Modules] Streaming discord_rpc@1 to /home/sam/.config/discord/0.0.37/modules/pending/discord_rpc-1.zip: 100%
+2023-12-07T13:56:55.582Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-12-07T13:56:56.702Z [Modules] Installing discord_game_utils@1 from /home/sam/.config/discord/0.0.37/modules/pending/discord_game_utils-1.zip
+2023-12-07T13:56:56.918Z [Modules] Installing discord_rpc@1 from /home/sam/.config/discord/0.0.37/modules/pending/discord_rpc-1.zip
+2023-12-07T13:56:56.973Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-12-08T02:05:42.510Z [Modules] Modules initializing
+2023-12-08T02:05:42.511Z [Modules] Distribution: remote
+2023-12-08T02:05:42.511Z [Modules] Host updates: enabled
+2023-12-08T02:05:42.511Z [Modules] Module updates: enabled
+2023-12-08T02:05:42.512Z [Modules] Module install path: /home/sam/.config/discord/0.0.37/modules
+2023-12-08T02:05:42.515Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.37/modules/installed.json
+2023-12-08T02:05:42.516Z [Modules] Module download path: /home/sam/.config/discord/0.0.37/modules/pending
+2023-12-08T02:05:42.904Z [Modules] No updates to install
+2023-12-08T02:05:42.906Z [Modules] Checking for host updates.
+2023-12-08T02:05:43.491Z [Modules] Host is up to date.
+2023-12-08T02:05:43.492Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T02:05:43.915Z [Modules] No module updates available.
+2023-12-08T02:05:48.151Z [Modules] Checking for host updates.
+2023-12-08T02:05:48.664Z [Modules] Host is up to date.
+2023-12-08T02:05:48.665Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T02:05:48.693Z [Modules] No module updates available.
+2023-12-08T11:04:25.505Z [Modules] Modules initializing
+2023-12-08T11:04:25.505Z [Modules] Distribution: remote
+2023-12-08T11:04:25.505Z [Modules] Host updates: enabled
+2023-12-08T11:04:25.505Z [Modules] Module updates: enabled
+2023-12-08T11:04:25.506Z [Modules] Module install path: /home/sam/.config/discord/0.0.37/modules
+2023-12-08T11:04:25.506Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.37/modules/installed.json
+2023-12-08T11:04:25.506Z [Modules] Module download path: /home/sam/.config/discord/0.0.37/modules/pending
+2023-12-08T11:04:26.127Z [Modules] No updates to install
+2023-12-08T11:04:26.128Z [Modules] Checking for host updates.
+2023-12-08T11:04:26.797Z [Modules] Host is up to date.
+2023-12-08T11:04:26.798Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T11:04:26.826Z [Modules] No module updates available.
+2023-12-08T11:04:31.086Z [Modules] Checking for host updates.
+2023-12-08T11:04:31.487Z [Modules] Host is up to date.
+2023-12-08T11:04:31.488Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T11:04:31.504Z [Modules] No module updates available.
+2023-12-08T12:04:31.089Z [Modules] Checking for host updates.
+2023-12-08T12:04:31.695Z [Modules] Host is up to date.
+2023-12-08T12:04:31.696Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T12:04:31.722Z [Modules] No module updates available.
+2023-12-08T13:04:31.092Z [Modules] Checking for host updates.
+2023-12-08T13:04:31.763Z [Modules] Host is up to date.
+2023-12-08T13:04:31.764Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T13:04:31.788Z [Modules] No module updates available.
+2023-12-08T14:04:31.092Z [Modules] Checking for host updates.
+2023-12-08T14:04:31.555Z [Modules] Host is up to date.
+2023-12-08T14:04:31.556Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T14:04:31.608Z [Modules] No module updates available.
+2023-12-08T18:18:57.396Z [Modules] Modules initializing
+2023-12-08T18:18:57.397Z [Modules] Distribution: remote
+2023-12-08T18:18:57.397Z [Modules] Host updates: enabled
+2023-12-08T18:18:57.397Z [Modules] Module updates: enabled
+2023-12-08T18:18:57.398Z [Modules] Module install path: /home/sam/.config/discord/0.0.37/modules
+2023-12-08T18:18:57.399Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.37/modules/installed.json
+2023-12-08T18:18:57.399Z [Modules] Module download path: /home/sam/.config/discord/0.0.37/modules/pending
+2023-12-08T18:18:57.791Z [Modules] No updates to install
+2023-12-08T18:18:57.792Z [Modules] Checking for host updates.
+2023-12-08T18:18:58.303Z [Modules] Host is up to date.
+2023-12-08T18:18:58.304Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T18:18:58.333Z [Modules] No module updates available.
+2023-12-08T18:19:01.590Z [Modules] Checking for host updates.
+2023-12-08T18:19:02.009Z [Modules] Host is up to date.
+2023-12-08T18:19:02.009Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-08T18:19:02.051Z [Modules] No module updates available.
+2023-12-09T10:47:36.956Z [Modules] Modules initializing
+2023-12-09T10:47:36.957Z [Modules] Distribution: remote
+2023-12-09T10:47:36.957Z [Modules] Host updates: enabled
+2023-12-09T10:47:36.957Z [Modules] Module updates: enabled
+2023-12-09T10:47:36.958Z [Modules] Module install path: /home/sam/.config/discord/0.0.37/modules
+2023-12-09T10:47:36.958Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.37/modules/installed.json
+2023-12-09T10:47:36.958Z [Modules] Module download path: /home/sam/.config/discord/0.0.37/modules/pending
+2023-12-09T10:47:37.458Z [Modules] No updates to install
+2023-12-09T10:47:37.460Z [Modules] Checking for host updates.
+2023-12-09T10:47:38.019Z [Modules] Host is up to date.
+2023-12-09T10:47:38.021Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-09T10:47:38.044Z [Modules] No module updates available.
+2023-12-09T10:47:42.826Z [Modules] Checking for host updates.
+2023-12-09T10:47:43.223Z [Modules] Host is up to date.
+2023-12-09T10:47:43.225Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-09T10:47:43.240Z [Modules] No module updates available.
+2023-12-09T10:49:18.596Z [Modules] Modules initializing
+2023-12-09T10:49:18.597Z [Modules] Distribution: remote
+2023-12-09T10:49:18.597Z [Modules] Host updates: enabled
+2023-12-09T10:49:18.598Z [Modules] Module updates: enabled
+2023-12-09T10:49:18.598Z [Modules] Module install path: /home/sam/.config/discord/0.0.37/modules
+2023-12-09T10:49:18.598Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.37/modules/installed.json
+2023-12-09T10:49:18.599Z [Modules] Module download path: /home/sam/.config/discord/0.0.37/modules/pending
+2023-12-09T10:49:18.793Z [Modules] No updates to install
+2023-12-09T10:49:18.796Z [Modules] Checking for host updates.
+2023-12-09T10:49:19.272Z [Modules] Host is up to date.
+2023-12-09T10:49:19.273Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-09T10:49:19.294Z [Modules] No module updates available.
+2023-12-09T10:49:23.441Z [Modules] Checking for host updates.
+2023-12-09T10:49:23.882Z [Modules] Host is up to date.
+2023-12-09T10:49:23.883Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-12-09T10:49:23.898Z [Modules] No module updates available.

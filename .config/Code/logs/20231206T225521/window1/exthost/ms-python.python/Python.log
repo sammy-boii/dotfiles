@@ -1,0 +1,19 @@
+2023-12-06 22:55:24.632 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-06 22:55:24.632 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-06 22:55:24.632 [info] Experiment 'pythonTestAdapter' is active
+2023-12-06 22:55:24.632 [info] Test server listening.
+2023-12-06 22:55:24.632 [info] Python interpreter path: /bin/python
+2023-12-06 22:55:27.789 [info] Starting Pylance language server.
+2023-12-06 22:56:03.080 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-06 22:56:03.080 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-06 22:56:03.080 [info] Experiment 'pythonTestAdapter' is active
+2023-12-06 22:56:03.080 [info] Default formatter is set to null for workspace /home/sam/Desktop/test
+2023-12-06 22:56:03.080 [info] Test server listening.
+2023-12-06 22:56:03.081 [info] Python interpreter path: /bin/python
+2023-12-06 22:56:03.355 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-06 22:56:03.355 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-06 22:56:03.355 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-06 22:56:03.355 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-06 22:56:03.355 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-06 22:56:03.355 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-06 22:56:05.003 [info] Starting Pylance language server.

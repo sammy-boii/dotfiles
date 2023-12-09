@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfwm4" version="1.0">
+  <property name="general" type="empty">
+    <property name="workspace_names" type="array">
+      <value type="string" value="1"/>
+      <value type="string" value="2"/>
+      <value type="string" value="3"/>
+      <value type="string" value="4"/>
+      <value type="string" value="5"/>
+      <value type="string" value="Workspace 6"/>
+      <value type="string" value="Workspace 7"/>
+      <value type="string" value="Workspace 8"/>
+      <value type="string" value="Workspace 9"/>
+      <value type="string" value="Workspace 10"/>
+      <value type="string" value="Workspace 11"/>
+      <value type="string" value="Workspace 12"/>
+      <value type="string" value="Workspace 13"/>
+      <value type="string" value="Workspace 14"/>
+      <value type="string" value="Workspace 15"/>
+      <value type="string" value="Workspace 16"/>
+      <value type="string" value="Workspace 17"/>
+      <value type="string" value="Workspace 18"/>
+      <value type="string" value="Workspace 19"/>
+      <value type="string" value="Workspace 20"/>
+      <value type="string" value="Workspace 21"/>
+      <value type="string" value="Workspace 22"/>
+      <value type="string" value="Workspace 23"/>
+      <value type="string" value="Workspace 24"/>
+      <value type="string" value="Workspace 25"/>
+      <value type="string" value="Workspace 26"/>
+      <value type="string" value="Workspace 27"/>
+      <value type="string" value="Workspace 28"/>
+      <value type="string" value="Workspace 29"/>
+      <value type="string" value="Workspace 30"/>
+      <value type="string" value="Workspace 31"/>
+      <value type="string" value="Workspace 32"/>
+      <value type="string" value="Workspace 33"/>
+      <value type="string" value="Workspace 34"/>
+      <value type="string" value="Workspace 35"/>
+      <value type="string" value="Workspace 36"/>
+      <value type="string" value="Workspace 37"/>
+      <value type="string" value="Workspace 38"/>
+      <value type="string" value="Workspace 39"/>
+      <value type="string" value="Workspace 40"/>
+      <value type="string" value="Workspace 41"/>
+      <value type="string" value="Workspace 42"/>
+      <value type="string" value="Workspace 43"/>
+      <value type="string" value="Workspace 44"/>
+      <value type="string" value="Workspace 45"/>
+      <value type="string" value="Workspace 46"/>
+      <value type="string" value="Workspace 47"/>
+      <value type="string" value="Workspace 48"/>
+      <value type="string" value="Workspace 49"/>
+    </property>
+    <property name="workspace_count" type="int" value="5"/>
+  </property>
+</channel>

@@ -1,0 +1,6 @@
+2023/12/03-11:18:38.923 35cec Reusing MANIFEST /home/sam/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/12/03-11:18:38.925 35cec Recovering log #3
+2023/12/03-11:18:38.932 35cec Reusing old log /home/sam/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2023/12/03-11:20:07.993 35cea Level-0 table #5: started
+2023/12/03-11:20:07.999 35cea Level-0 table #5: 149134 bytes OK
+2023/12/03-11:20:08.002 35cea Delete type=0 #3

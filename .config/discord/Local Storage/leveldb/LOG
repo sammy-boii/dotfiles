@@ -1,0 +1,8 @@
+2023/12/09-16:34:18.581 169e Reusing MANIFEST /home/sam/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/12/09-16:34:18.583 169e Recovering log #59
+2023/12/09-16:34:18.601 169e Level-0 table #62: started
+2023/12/09-16:34:18.638 169e Level-0 table #62: 2712300 bytes OK
+2023/12/09-16:34:18.639 169e Recovering log #62
+2023/12/09-16:34:18.639 169e Reusing old log /home/sam/.config/discord/Local Storage/leveldb/000062.log 
+2023/12/09-16:34:18.641 169e Delete type=0 #59
+2023/12/09-16:34:18.641 169e Delete type=2 #63

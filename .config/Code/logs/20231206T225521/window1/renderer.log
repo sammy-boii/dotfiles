@@ -1,0 +1,10 @@
+2023-12-06 22:55:21.898 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-06 22:55:22.445 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2023-12-06 22:55:25.978 [info] [perf] Render performance baseline is 66ms
+2023-12-06 22:55:26.099 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2023-12-06 22:55:54.631 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/sam/Desktop/test.py 
+2023-12-06 22:55:55.049 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-06 22:55:55.617 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2023-12-06 22:55:57.987 [info] [perf] Render performance baseline is 42ms
+2023-12-06 22:55:58.861 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2023-12-06 22:55:58.903 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

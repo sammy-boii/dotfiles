@@ -1,0 +1,195 @@
+{
+   "checksum": "08ca015b818766f700bfd3eccc9a5803",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13344589747244012",
+            "date_last_used": "13345995839322260",
+            "guid": "fbebd27b-5bac-4f3f-b752-62d48d9dab9c",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13344589736291862",
+            "date_last_used": "0",
+            "guid": "924a569d-2d73-478c-8447-70aca534c341",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://aniwave.to/home"
+         }, {
+            "date_added": "13344590057861699",
+            "date_last_used": "0",
+            "guid": "1db41032-1a2d-43b0-9819-1c93e45d5311",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Blue Lock",
+            "type": "url",
+            "url": "https://mangareader.to/blue-lock-225"
+         }, {
+            "date_added": "13344589976373438",
+            "date_last_used": "0",
+            "guid": "6486c00c-8cea-4d55-a981-b20585c6e445",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OP",
+            "type": "url",
+            "url": "https://tcbscans.com/mangas/5/one-piece?date=16-11-2023-12"
+         }, {
+            "date_added": "13344590216506799",
+            "date_last_used": "0",
+            "guid": "5cf88f32-7c01-4cfd-a272-952ac43c0472",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OPM",
+            "type": "url",
+            "url": "https://mangareader.to/onepunch-man-40"
+         }, {
+            "children": [ {
+               "date_added": "13344589829279554",
+               "date_last_used": "0",
+               "guid": "c58fd349-dc62-4120-89fc-23edadb69f77",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "FlixHQ",
+               "type": "url",
+               "url": "https://flixhq.ws/"
+            }, {
+               "date_added": "13344589835455616",
+               "date_last_used": "0",
+               "guid": "175e2265-0380-42d1-94c2-49915088b8e9",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Soap2day",
+               "type": "url",
+               "url": "https://soap2day.rs/movie?page=2"
+            }, {
+               "date_added": "13344589991434639",
+               "date_last_used": "0",
+               "guid": "cc283a98-bad9-4214-95c4-948bd22f9400",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Live Chart",
+               "type": "url",
+               "url": "https://www.livechart.me/fall-2023/tv"
+            }, {
+               "date_added": "13344590025541140",
+               "date_last_used": "0",
+               "guid": "667080a1-93d4-4188-9db9-c70cd6f1c65a",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Asura Scans",
+               "type": "url",
+               "url": "https://asuratoon.com/"
+            }, {
+               "date_added": "13344590092129490",
+               "date_last_used": "0",
+               "guid": "1336c002-18bc-4695-9c08-12378ff40f83",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Kemono",
+               "type": "url",
+               "url": "https://kemono.su/"
+            } ],
+            "date_added": "13344589766107296",
+            "date_last_used": "0",
+            "date_modified": "13344590092129490",
+            "guid": "400b1521-f7fd-4507-96f0-4a0ab00d12dc",
+            "id": "12",
+            "name": "★ 𝙎𝙘𝙖𝙥𝙚𝙂𝙤𝙖𝙩 ★",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13344590374384167",
+               "date_last_used": "0",
+               "guid": "4226df1c-f421-4d65-b2c5-8549ae698ebb",
+               "id": "19",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "",
+               "type": "url",
+               "url": "https://app.mysecondteacher.com.np/login"
+            } ],
+            "date_added": "13344590270017043",
+            "date_last_used": "0",
+            "date_modified": "13344590374384167",
+            "guid": "6f4d215a-2e9d-48a7-9f9e-04a5af85d91c",
+            "id": "18",
+            "name": "𝕮𝖔𝖑𝖑𝖊𝖌𝖊 𝕾𝖙𝖚𝖋𝖋",
+            "type": "folder"
+         } ],
+         "date_added": "13345995782233153",
+         "date_last_used": "0",
+         "date_modified": "13344590246493023",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13344589694280041",
+            "date_last_used": "0",
+            "guid": "77a4da4e-1079-47ce-9ef3-52e5ca3578f8",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=N4xkSFJqBq8&ab_channel=NoLifeShaq"
+         } ],
+         "date_added": "13345995782233155",
+         "date_last_used": "0",
+         "date_modified": "13344589694280041",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13243245331142346",
+            "date_last_used": "0",
+            "guid": "00c43339-b114-46d1-9605-57678bd7497b",
+            "id": "6",
+            "name": "GEMS School",
+            "type": "url",
+            "url": "https://gems.edu.np/onlinestudy"
+         } ],
+         "date_added": "13345995782233156",
+         "date_last_used": "0",
+         "date_modified": "13243245331142346",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtACCq8CCIiBAhKoAiAAkgGdAgrTAQoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJUE6sg4YLBgARUE6sg4YLBgAiMQmVQ5qDhgsGABAIGaw6Dwy6RxUwIAEqGTUxIWJtOjgxMzk5MjM0MjE3Nzc1OTQ0NzAiNAmA2HGDhgsGABADGY26eMsF1CJ3IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAmA2HGDhgsGABADGY26eMsF1CJ3IAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEp3oCsg4YLBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAQop9hgsGABEAQop9hgsGAClmSqyDhgsGADCAhKns5/CCA7oBAggBEgAqGFZqWnFyZGZXb3VjYi9QdUo2S3Y1dHc9PUgDEusBCBMS5gEKHGs3S1lROVlMQnVWTEI1eFhBSlJVWG96b3Z6bz0SZlo6QURxdEFaekhGWjgyWGpLRTJZNHNWTkxnN0xacW9MUlMyRHlWWU1kYmgva3FDb0tKWWtNSVk3bHdPM1djTHhrR0JqM0Y5bnB0L3Q4NkV3Q05iVW5zN0c2dDgzY3VFU1hTVlE9PRgAIAAoADDv6MqsnsqCAzjw++y2vTFA8Pvstr0xShxBZmRlOHV3VmFCaUU3QmxXRmYrUWxRNzBueFk9Wh4iHFVZeElnbDlDTTNvWjJzLzJOeGFVV3ZEbU9vaz1lBnOLYRLsAQgREucBChxtSmF4blRVMEhJdWtvTXR3K1VFY2tjdzdDbjQ9EmZaOkFEcXRBWnpIRlo4MlhqS0UyWTRzVk5MZzdMWnFwZjZwUGtwVEhsYnhnaUVxaWIwWUtDa1pnVTZsYTVrREhGYmtIcERzY3FLYnR0KzFIeDl3aWgzbGtRNVcwc1hPVmJrb053PT0YACAAKAAwuaqsvvPHggM44t7btr0xQOLe27a9MUocZ1NIWlRNQlNaS0FsTW81RGtEYUZaQnMxMTdBPVofIh3tMklSM0NaUTRpMDByQVdhdWZGMUd3Q242TWFzPWUcbPZNEuwBCA8S5wEKHE1EYUxSUVJiQ1hxd2VDa3JyOXMxelNPRlFwTT0SZlo6QURxdEFaekhGWjgyWGpLRTJZNHNWTkxnN0xacSsvTzdCNHNxNmx0RnNMTlFVSEhsMGRLSEcvQ1BzL2xLcm1JUjRrdVZjZjdJZ0RGSFM4SW5WR0g0dFpmNUVBeFFXbkJLM2c9PRgAIAAoADDT8oiW88eCAziMzNW2vTFAjMzVtr0xShxlVXFLU2RpVlgwdzh0ZzRUSDV2WWRCVWhxVFE9Wh8iHbdPbmpuMXd6dFhCOVVkU0xBRzF1MUZCMW9RRm89Zdwwv2ES6wEIDRLmAQocTE9UYXpPOFZLNG9ZbDRvOUlzWE94S3VZbkk4PRJmWjpBRHF0QVp6SEZaODJYaktFMlk0c1ZOTGc3TFpxbG05K05EQ09YVFBFUk9mZ2JWM3Erc3VZcDA3SHRGU0NqS2hUZFVTdU9Tdlh3bVlPZEp2dGgxU3EvMUZDRjBOOWJhYXhuUT09GAAgACgAMLjPosLyx4IDOJ/Zy7a9MUCf2cu2vTFKHFVSNWYxOVVzMG5tS2h2QXJqRDgyREZhYlBFZz1aHiIcMHhQUmFjc0ZCT2h0MWV4MUZNeHJiWDEyblE4PWVIKAe9EuwBCAoS5wEKHFR4TkhPcTc4RE1yWlltaEpWeDhLdTFkcy8rND0SZlo6QURxdEFaekhGWjgyWGpLRTJZNHNWTkxnN0xacXk3Ri9aK1NTK1hFMXZzUU9sSldldUZRZi9qc2xSL0UrTGQ1U3VaSVMrenRRMnlpTXkrRk5HOGtVNlc5NEpQOVo4aThmOUE9PRgAIAIoAjCVh+mc6PCCAzi21tS2vTFA2suC1cIxShx5T1NWeDM5OEs0cllOaVRsQkk5WUk3S3dvdGM9Wh8iHYduOFlnM1hDYlluRnBkSi8zWWhMU1VTRHVQZGs9ZSbIJU8S7AEIDBLnAQocWGpPK3lOcDZFMGhXRVhoSnN4dWN4THhqUk9zPRJmWjpBRHF0QVp6SEZaODJYaktFMlk0c1ZOTGc3TFpxU01rdElBSi9rd1Z1VUwzbml2LzJZNHpjcDJyR2xnYjdSdFg5eUtOb1lWRkpYM1ZQNHJNdk5BejNGcTBIZ3A5WWJ4ZzdTQT09GAAgACgAMKO5oqLyx4IDON3rx7a9MUDd68e2vTFKHGdQREt2ZDV0UlVuMkhwY0ZSYlZCQlhxa1RlOD1aHyIdtmkzWHN2aVNrY29yUTdVS1psRXVtSTIzb2ZGYz1lAAAAABLsAQgQEucBChxZSWM4N0ZjaFNwSFE5NGorYW1yK2ZxMUNNTkU9EmZaOkFEcXRBWnpIRlo4MlhqS0UyWTRzVk5MZzdMWnFzdk1sK3pCUk0yV0FlZ1ZrejlTazNkN3RTd1BtTlRZVzU5dmwvK0Q5Z05hOWlXdW1MSXQwd0J0T1ZSaTErYXpHWnFsNkF3PT0YACAAKAAw8Jn+uPPHggM4xdbXtr0xQMXW17a9MUocN0Y3YnFWbGtlUmJ5aHhGdXJ3QkRIbEtBbGJNPVofIh3bM2xWQWVmVVdTZGdqbi83K2hvNHBVVUN3R29VPWVzSpHBEuwBCAkS5wEKHDQyVjNnM3hnN1NzWHBZZ3RodVAxRVQ3WHU3WT0SZlo6QURxdEFaekhGWjgyWGpLRTJZNHNWTkxnN0xacWV2MElhQXNVOUVlcS9rU21md0x1TE95cDh4T1RXd0N2dHNJZGtjS0NBdVQwVmh4STY0ZlBJMHhHNkkyR1l5bkpNeEZRYWc9PRgAIAIoAjCVh+mc6PCCAziG09m2vTFA2cuC1cIxShxCSU9CN3hoVnB5MGJKVjFzRHRGWHEyQWNycXM9Wh8iHX5UZHNJZlZCQWVoVWFQRWk0T1ZobS9RRisyVU09ZSA0UQIS6wEIBxLmAQocblU5SnM3bi9VZjJBWE50MllubzlUUUExaTVrPRJmWjpBRHF0QVp6SEZaODJYaktFMlk0c1ZOTGc3TFpxeUlqdWRuNi9KM1hIdVA5OVlMOGZHbHM0cFNaV1B3L0duZ2dMN1R0M09zV0RWOGQvU0ZtSzFzTitqcGtmZU9aaGd0cEZsdz09GAAgAigCMJWH6Zzo8IIDOKzYxra9MUDYy4LVwjFKHHBRUEJheTFQbFM1bjczcVgzYWt5dnh1NU5UMD1aHiIcY0NZVmlxVXZkQnNLM2xOUDMvbnZWOStLajJjPWU4+TkzEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaek1CanNtcUpwMEg3WklEeERhRFNJQytPMnJyWmxiNHBqRmM5K2ZUZ25zam5odW54Rm5temtqblQzTzg1K1BNbkxVRHExQRgAIAAoADCAsceb6PCCAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEusBCA4S5gEKHFBsUXNCTVp5NTRHSjZxb3ZDQ1hTU1kzUDRyMD0SZlo6QURxdEFaekhGWjgyWGpLRTJZNHNWTkxnN0xacWpHL24xV2doOVB6T2FLdkZCNGpua3F4bGhtendnZk1JeUZXRVhmdlRPUlNhVDFEUlBCNi96RjVCanpKMDAzZGQ3NE50dmc9PRgAIAAoADCz4u/E8seCAzi/icy2vTFAv4nMtr0xShxYeERya3NFaS91MGg2TkF5TkNhMFFJUSs1VjQ9Wh4iHG5tRldLVSt4UURRa2F0QUducmZPVGhLQ0dNQT1lZX2swxLsAQgIEucBChxtR216clFjdFlHTUxPMzlRN3I1ZHJIUVRCOXc9EmZaOkFEcXRBWnpIRlo4MlhqS0UyWTRzVk5MZzdMWnFqa1dabURRaDQ4UUU1RUJlVVBZWHdXdnNtMGExN2V6a09sb2I1RUJTa2tEZTBKc0p2SFVOMERkY0pCeWNVVHlwbmFyU01RPT0YACACKAIwlYfpnOjwggM45ILGtr0xQNjLgtXCMUocUUZHMjI2UklHbUNNZGk3OURzVkJJbVhTZFo4PVofIh1wMUpyMTcxZGVjbXNVckZISFp1REx5am5iVVY4PWUsida1EqwCCAYSpwIKHFFacExwVkZlWVBLZ1p5NnR3ekdKYVNWODhicz0SpgFaOkFEcXRBWndhbU8wZjJVVVBpbDE4bk02SkRlQU90dXN3YUtadUhBWUxMUUlYQ3QrZHREazNGdzkxM0F5NGZUaTdQMXJmUnphZUZGYms3RVI0NktTbVFhNEJ5N3dISExhMDhGNFQ0WlZwbVo0RDJ5S0d2emtsQnduUEl6QUhxUXRyaTZtOG96U1N6bE5BeStwMTFqU09OSlBWL080MEI2Ylh3UT09GAAgACgAMKiuwa2Xg/oCOMu14vHDLkDLteLxwy5KHDZBNElkekZ2S0ZUL2hDZXFlZkY2YWNTUHdtbz1aHiIcRDhGK091Z1RYVVBsR0FDYTJhbGJGOENZVi93PWUAAAAAEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeE9xUVB3VjhDWE5vTmJyd2diUjNJd2djV3dpakQzZzYySU5Ga1c1dU9aZUxwaW1NZ1ppdUlMNDZEWVZuQ1FKZFF3NzNyT1RkaVF0cjk1L0JDaElEQnVRZE5NdlE9PRgAIAAoADCAsceb6PCCAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAUS5gEKHHRDb3QvOE52ajVLK3Z5d1JMWmpiRk1Ca0Vaaz0SZlo6QURxdEFaekhGWjgyWGpLRTJZNHNWTkxnN0xacW5QVEtDazE4YTMzWjNBMkpFVGVMREJWTDlFZld3QWpiOStLcEY0QjlhN0JlUDczWUxwTkVsSzlENjZRcFBBK3padG5sS1E9PRgAIAAoADCCva6B8seCAzjJusO2vTFAybrDtr0xShxadUVRaEVWSUZSR0dNNTJKWnZSNGZrTzZ6ckk9Wh4iHFcxVjFHT2JjU1ovVDBnUHg3dTgrMnZLWmNhOD1lOPk5MxLsAQgSEucBChwvRHYzL2Q5b0FvT3dhRjA2K0x3N0hiMnRNd3c9EmZaOkFEcXRBWnpIRlo4MlhqS0UyWTRzVk5MZzdMWnE3TkdRUExlUzd0NmNranJzRGNPMGNHdDdoQWpObHJXeCtoRDErTW4yczlhZU9MaS94OXBNYThkZGZZeUVBNlRKK3ppQXBRPT0YACAAKAAwtKituvTHggM4wszmtr0xQMLM5ra9MUocRTRGOE4rQjROZm5lcmIrOFhGTHNUZ2NpY01nPVofIh3kcVkvamV6M1I4UERhOHJnVytvNEthZWtKbVBzPWUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFad3Z4a3BQbHNyQmZ5YlQxTWs3UDc1bHpYT0syN1BrOVp1RGltTEF1TFBSa3p3OS9EVS9lN29DZmJtdzFsV2E3VVdlbHBCeGVKS1hsZWhwM2w3dDFXNjh1U3FGSFE9PRgAIAAoADCAsceb6PCCAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCAsS5wEKHDZHZFpocnFWbHNwRUY5azFkZGV3bEc1ZC94OD0SZlo6QURxdEFaekhGWjgyWGpLRTJZNHNWTkxnN0xacVcrM3Q2YUUvZ0I4ZTNYWUx5OUhGOUpFK0Q5c0M3SGl2RXFqanhkd3BMYTgyTVREK0pJaFh5NmhwaE9IMDE0eGIwZ3BZUEE9PRgAIAIoAjCVh+mc6PCCAzi7quO2vTFA2suC1cIxShxvZU9PVkg2QjRJOWlvcTZRK2grdUM3amp4Qk09Wh8iHZFPS2hFNmJ1QWthcHVhaDFSNytJZDdQNzhvMFU9ZSA0UQIwATgA",
+   "version": 1
+}

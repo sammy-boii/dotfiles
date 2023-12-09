@@ -1,0 +1,5 @@
+2023/12/03-11:18:51.729 35cbb Creating DB /home/sam/.config/google-chrome/Default/IndexedDB/https_app.mysecondteacher.com.np_0.indexeddb.leveldb since it was missing.
+2023/12/03-11:18:51.737 35cbb Reusing MANIFEST /home/sam/.config/google-chrome/Default/IndexedDB/https_app.mysecondteacher.com.np_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/03-11:22:03.633 35cea Level-0 table #5: started
+2023/12/03-11:22:03.652 35cea Level-0 table #5: 1898731 bytes OK
+2023/12/03-11:22:03.654 35cea Delete type=0 #3

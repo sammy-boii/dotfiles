@@ -1,0 +1,6 @@
+file:///home/sam/Desktop/test/main.py {"mtime":1701882662476,"ctime":1701882662476,"size":0,"etag":"3bj4fjsbq0","orphaned":false,"typeId":""}
+def main ():
+    num1 = int(input("Enter a number"));
+    num2 = int(input("Enter another number"));
+
+

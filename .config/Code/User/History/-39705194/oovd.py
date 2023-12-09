@@ -1,0 +1,20 @@
+c = 0
+
+def is_prime(number):
+    for i in range(1, number):
+        if number % i == 0:
+            c = c + 1
+    if c == 2:
+        return True
+    else:
+        return False
+
+def main():
+    num = int(input("Enter a number: "))
+    if is_prime(num):
+        print("Prime")
+    else:
+        print("Composite")
+
+if __name__ == "__main__":
+    main()

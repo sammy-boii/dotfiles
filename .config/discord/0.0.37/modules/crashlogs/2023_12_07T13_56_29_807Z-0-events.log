@@ -1,0 +1,139 @@
+2023-12-07T13:56:29.823Z 0: 
+
+----------------------------------------------
+2023-12-07T13:56:29.851Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/sam/.config/discord/0.0.37/modules
+2023-12-07T13:56:29.862Z 2: ✅ webContents.created web1 ""
+2023-12-07T13:56:29.868Z 3: ✅ window.created win1 "discord"
+2023-12-07T13:56:30.204Z 4: ✅ webContents.did-finish-load web1
+2023-12-07T13:56:46.822Z 5: ✅ webContents.created web2 ""
+2023-12-07T13:56:46.861Z 6: ✅ window.created win2 "Discord"
+2023-12-07T13:56:54.953Z 7: ✅ webContents.did-finish-load web2
+2023-12-07T13:56:55.050Z 8: window.close win1
+2023-12-07T13:56:55.077Z 9: webContents.destroyed web1
+2023-12-07T13:56:55.083Z 10: window.closed win1
+2023-12-07T13:59:27.370Z 11: window.close win2
+2023-12-07T13:59:35.937Z 12: before-quit
+2023-12-07T13:59:36.009Z 13: window.close win2
+2023-12-07T13:59:36.032Z 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+2023-12-08T02:05:42.595Z 0: 
+
+----------------------------------------------
+2023-12-08T02:05:42.639Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/sam/.config/discord/0.0.37/modules
+2023-12-08T02:05:42.646Z 2: ✅ webContents.created web1 ""
+2023-12-08T02:05:42.649Z 3: ✅ window.created win1 "discord"
+2023-12-08T02:05:43.003Z 4: ✅ webContents.did-finish-load web1
+2023-12-08T02:05:44.027Z 5: ✅ webContents.created web2 ""
+2023-12-08T02:05:44.047Z 6: ✅ window.created win2 "Discord"
+2023-12-08T02:05:48.585Z 7: ✅ webContents.did-finish-load web2
+2023-12-08T02:05:48.692Z 8: window.close win1
+2023-12-08T02:05:48.727Z 9: webContents.destroyed web1
+2023-12-08T02:05:48.730Z 10: window.closed win1
+2023-12-08T02:06:28.371Z 11: window.close win2
+2023-12-08T02:41:57.529Z 0: 
+
+----------------------------------------------
+2023-12-08T02:41:57.541Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/sam/.config/discord/0.0.37/modules
+2023-12-08T02:43:07.960Z 12: before-quit
+2023-12-08T02:43:07.994Z 13: window.close win2
+2023-12-08T02:43:08.010Z 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+2023-12-08T02:43:08.027Z 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+2023-12-08T11:04:25.582Z 0: 
+
+----------------------------------------------
+2023-12-08T11:04:25.652Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/sam/.config/discord/0.0.37/modules
+2023-12-08T11:04:25.670Z 2: ✅ webContents.created web1 ""
+2023-12-08T11:04:25.681Z 3: ✅ window.created win1 "discord"
+2023-12-08T11:04:26.341Z 4: ✅ webContents.did-finish-load web1
+2023-12-08T11:04:27.045Z 5: ✅ webContents.created web2 ""
+2023-12-08T11:04:27.067Z 6: ✅ window.created win2 "Discord"
+2023-12-08T11:04:31.568Z 7: ✅ webContents.did-finish-load web2
+2023-12-08T11:04:31.667Z 8: window.close win1
+2023-12-08T11:04:31.681Z 9: webContents.destroyed web1
+2023-12-08T11:04:31.683Z 10: window.closed win1
+2023-12-08T11:16:02.597Z 11: window.close win2
+2023-12-08T14:05:31.869Z 12: window.close win2
+2023-12-08T14:05:35.309Z 13: before-quit
+2023-12-08T14:05:35.321Z 14: window.close win2
+2023-12-08T14:05:35.350Z 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+2023-12-08T14:05:35.378Z 16: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+2023-12-08T14:05:35.420Z 17: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+2023-12-08T18:18:57.492Z 0: 
+
+----------------------------------------------
+2023-12-08T18:18:57.545Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/sam/.config/discord/0.0.37/modules
+2023-12-08T18:18:57.556Z 2: ✅ webContents.created web1 ""
+2023-12-08T18:18:57.568Z 3: ✅ window.created win1 "discord"
+2023-12-08T18:18:57.916Z 4: ✅ webContents.did-finish-load web1
+2023-12-08T18:18:58.464Z 5: ✅ webContents.created web2 ""
+2023-12-08T18:18:58.481Z 6: ✅ window.created win2 "Discord"
+2023-12-08T18:19:01.916Z 7: ✅ webContents.did-finish-load web2
+2023-12-08T18:19:02.017Z 8: window.close win1
+2023-12-08T18:19:02.054Z 9: webContents.destroyed web1
+2023-12-08T18:19:02.068Z 10: window.closed win1
+2023-12-08T18:25:10.778Z 11: before-quit
+2023-12-08T18:25:10.792Z 12: window.close win2
+2023-12-08T18:25:10.854Z 13: webContents.destroyed web2
+2023-12-08T18:25:10.939Z 14: window.closed win2
+2023-12-09T10:47:37.026Z 0: 
+
+----------------------------------------------
+2023-12-09T10:47:37.054Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/sam/.config/discord/0.0.37/modules
+2023-12-09T10:47:37.088Z 2: ✅ webContents.created web1 ""
+2023-12-09T10:47:37.097Z 3: ✅ window.created win1 "discord"
+2023-12-09T10:47:37.648Z 4: ✅ webContents.did-finish-load web1
+2023-12-09T10:47:38.258Z 5: ✅ webContents.created web2 ""
+2023-12-09T10:47:38.353Z 6: ✅ window.created win2 "Discord"
+2023-12-09T10:47:43.106Z 7: ✅ webContents.did-finish-load web2
+2023-12-09T10:47:43.208Z 8: window.close win1
+2023-12-09T10:47:43.227Z 9: webContents.destroyed web1
+2023-12-09T10:47:43.232Z 10: window.closed win1
+2023-12-09T10:49:09.058Z 11: before-quit
+2023-12-09T10:49:09.075Z 12: window.close win2
+2023-12-09T10:49:09.129Z 13: webContents.destroyed web2
+2023-12-09T10:49:18.635Z 0: 
+
+----------------------------------------------
+2023-12-09T10:49:18.652Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.37"}, modulepath: /home/sam/.config/discord/0.0.37/modules
+2023-12-09T10:49:18.676Z 2: ✅ webContents.created web1 ""
+2023-12-09T10:49:18.679Z 3: ✅ window.created win1 "discord"
+2023-12-09T10:49:18.899Z 4: ✅ webContents.did-finish-load web1
+2023-12-09T10:49:19.526Z 5: ✅ webContents.created web2 ""
+2023-12-09T10:49:19.553Z 6: ✅ window.created win2 "Discord"
+2023-12-09T10:49:24.115Z 7: ✅ webContents.did-finish-load web2
+2023-12-09T10:49:24.229Z 8: window.close win1
+2023-12-09T10:49:24.247Z 9: webContents.destroyed web1
+2023-12-09T10:49:24.249Z 10: window.closed win1
+2023-12-09T10:49:52.106Z 11: window.close win2
+2023-12-09T10:49:55.824Z 12: before-quit
+2023-12-09T10:49:55.830Z 13: window.close win2
+2023-12-09T10:49:55.859Z 14: webContents.destroyed web2

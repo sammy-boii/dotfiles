@@ -1,0 +1,30 @@
+2023-12-02 22:27:28.239 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-12-02 22:27:28.239 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-02 22:27:28.239 [info] Experiment 'pythonTestAdapter' is active
+2023-12-02 22:27:28.324 [info] Test server listening.
+2023-12-02 22:27:28.369 [info] > conda info --json
+2023-12-02 22:27:28.768 [info] Found: /bin/python --> /bin/python3.11
+2023-12-02 22:27:28.769 [info] Found: /bin/python3 --> /bin/python3.11
+2023-12-02 22:27:28.769 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-12-02 22:27:28.777 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-02 22:27:28.777 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-02 22:27:28.777 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-02 22:27:28.777 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-02 22:27:28.777 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-02 22:27:28.797 [info] Found: /sbin/python --> /sbin/python3.11
+2023-12-02 22:27:28.797 [info] Found: /sbin/python3 --> /sbin/python3.11
+2023-12-02 22:27:28.797 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2023-12-02 22:27:28.802 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-12-02 22:27:28.802 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-12-02 22:27:28.802 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-12-02 22:27:28.820 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2023-12-02 22:27:28.820 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2023-12-02 22:27:28.820 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2023-12-02 22:27:28.837 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-12-02 22:27:28.851 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-12-02 22:27:28.929 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-12-02 22:27:28.939 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-12-02 22:27:28.980 [info] Python interpreter path: /bin/python
+2023-12-02 22:27:30.805 [info] Starting Pylance language server.
+2023-12-02 22:31:56.600 [info] CreateEnv Trigger - Workspace not found for /home/sam/Desktop/test.py
+2023-12-02 22:31:56.712 [info] Send text to terminal: /bin/python /home/sam/Desktop/test.py
