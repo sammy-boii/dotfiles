@@ -1,8 +1,8 @@
-WM = i3
-Distro = Archcraft XFCE
-Compositor = picom
-Terminal = alacritty
-Notification = dunst
-Status Bar = Polybar
+WM = i3 <br>
+Distro = Archcraft XFCE<br>
+Compositor = picom<br>
+Terminal = alacritty<br>
+Notification = dunst<br>
+Status Bar = Polybar<br>
 
 i3 and rofi scripts are stored in their respective directories
