@@ -1,1 +1,8 @@
-Most of them are standard archcraft's config files
+WM = i3
+Distro = Archcraft XFCE
+Compositor = picom
+Terminal = alacritty
+Notification = dunst
+Status Bar = Polybar
+
+i3 and rofi scripts are stored in their respective directories
