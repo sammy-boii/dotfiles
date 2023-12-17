@@ -6,3 +6,5 @@ Notification = dunst<br>
 Status Bar = Polybar<br>
 
 i3 and rofi scripts are stored in their respective directories
+
+![img](ranger-fm.png)
