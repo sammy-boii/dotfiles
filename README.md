@@ -1,4 +1,5 @@
-> ## Setup  
+> ## Setup 
+
 
 🐧 Distro: Arch  
 
@@ -12,5 +13,20 @@
 
 🐚 Shell: zsShell: zsh   
 
-[![ss](https://i.postimg.cc/bvhh4FLq/Screenshot-2024-05-27-22-58-41-1366x768.png)](https://postimg.cc/sMwqhmtL)
-[![ss](https://i.postimg.cc/wTsjtBxv/Screenshot-2024-05-27-23-35-04-1366x768.png)](https://postimg.cc/hfcB6cdW)
+
+
+[![desktop.webp](https://i.postimg.cc/t4svGYbX/desktop.webp)](https://postimg.cc/qNdx8BgY)
+
+
+
+[![workflow.webp](https://i.postimg.cc/x8rN8pJx/workflow.webp)](https://postimg.cc/gXD2BDK8)
+
+
+
+[![ranger-fm.webp](https://i.postimg.cc/ZqVWPK9d/ranger-fm.webp)](https://postimg.cc/jWnqtT4x)
+
+
+
+[![bpytop.webp](https://i.postimg.cc/sDShhz3V/bpytop.webp)](https://postimg.cc/hfDjkHJw)
+
+
