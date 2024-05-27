@@ -1,0 +1,4 @@
+pacman -Qqen > ./pkglist.txt
+yay -Qqem > ./aurlist.txt
+
+

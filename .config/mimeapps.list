@@ -1,0 +1,34 @@
+[Added Associations]
+image/png=viewnior.desktop;
+image/jpeg=viewnior.desktop;
+image/gif=viewnior.desktop;
+image/svg+xml=code.desktop;viewnior.desktop;
+text/x-csrc=geany.desktop;
+text/plain=google-chrome.desktop;geany.desktop;
+application/x-shellscript=geany.desktop;
+application/x-theme=geany.desktop;
+application/json=geany.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=firefox.desktop;libreoffice-writer.desktop;xarchiver.desktop;
+video/mp4=mplayer.desktop;Alacritty.desktop;
+text/html=code.desktop;google-chrome.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
+application/x-php=code.desktop;google-chrome.desktop;
+text/markdown=code.desktop;
+text/x-python=code.desktop;
+application/x-tiled-tsx=code.desktop;
+application/x-python-bytecode=Alacritty.desktop;geany.desktop;
+application/x-zerosize=libreoffice-writer.desktop;
+
+[Default Applications]
+image/gif=viewnior.desktop
+image/svg+xml=viewnior.desktop
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
+application/x-php=google-chrome.desktop
+application/x-python-bytecode=geany.desktop
+x-scheme-handler/eclipse+command x-scheme-handler/eclipse+mpc=_home_sam_Downloads_eclipse_.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/eclipse+installer=_home_sam_Downloads_eclipse-installer_.desktop
+application/x-zerosize=libreoffice-writer.desktop

@@ -1,0 +1,5 @@
+google-chrome
+pacman4console
+tetris-terminal-git
+visual-studio-code-bin
+xampp
