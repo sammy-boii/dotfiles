@@ -1,4 +1,4 @@
-> Setup
+> ## Setup
 
 🐧 Distro: Arch  
 
@@ -11,3 +11,6 @@
 🔔 Notification: dunst   
 
 🐚 Shell: zsShell: zsh   
+
+![pic](https://i.ibb.co/12b37Bm/Screenshot-2024-05-27-22-58-41-1366x768.png)
+
