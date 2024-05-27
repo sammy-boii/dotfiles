@@ -1,4 +1,4 @@
-> ## Setup
+> ## Setup  
 
 🐧 Distro: Arch  
 
@@ -12,5 +12,5 @@
 
 🐚 Shell: zsShell: zsh   
 
-![pic](https://i.ibb.co/12b37Bm/Screenshot-2024-05-27-22-58-41-1366x768.png)
-
+[![ss](https://i.postimg.cc/bvhh4FLq/Screenshot-2024-05-27-22-58-41-1366x768.png)](https://postimg.cc/sMwqhmtL)
+[![ss](https://i.postimg.cc/wTsjtBxv/Screenshot-2024-05-27-23-35-04-1366x768.png)](https://postimg.cc/hfcB6cdW)
